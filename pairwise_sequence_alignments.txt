@@ -1,0 +1,1462 @@
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >NP_337765.1
+
+identity: 0.31894484 (133)/(417)
+similarity: 0.4796163 (200)/(417)
+gap_percent: 0.17985612 (75)/(417)
+
+Score: 5407.0
+
+№1  MENI-VASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQPLA
+    |.:. .....:|:.|.:.:...:........|.|||:.::.|.||||:.||.:|.||.||
+№2  MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQSLA
+№1  DGLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILTDVN
+    ||:||..||.:.|....:|:|.:|.:.:::||...||.||||||..|||.|....:||:.
+№2  DGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFGPEVSVFGHRTPLQITDLP
+№1  VGLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMGPIILAQS
+    |::|...:|::::||:|.|:||||.|.|.|:|:.|..:.||||||....:.....:.|..
+№2  VAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFATVFLMAGT
+№1  LSTYSIVQNQIDQKLWYIWLQPVAFVVYMFAMLAETGRVPFDVQEAEAELVTGFTVEYGG
+    .||..||..|  ..:||.:|...:||:|..:|::||.|.|||:.|||:|||.||..||::
+№2  MSTSQIVAAQ--DGVWYAFLLLPSFVIYLISMVGETNRAPFDLPEAEGELVAGFHTEYSS
+№1  MKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFFDPLFFLGPLSPFVWFLLKV
+    .||:.|.|.| ||.:..:||::..||.|||   ..|: .............|.:||..||
+№2  LKFAMFMLAE-YVNMTTVSALAATLFFGGW---HAPW-PLNMWASANTGWWPLIWFTAKV
+№1  GLVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFV---------------------NLV
+    ........||:.||||.|.||.::.:||:.:|:..|                     :||
+№2  WGFLFIYFWLRATLPRLRYDQFMALGWKLLIPVSLVWVMVAAIIRSLRNQGYQYWTPTLV
+№1  FTALIAP----LVWK------------------------------------------
+     |.:::..    |:.:                                          
+№2  FSSIVVAAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKENAGG
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_001581614.1
+
+identity: 0.25503355 (114)/(447)
+similarity: 0.4116331 (184)/(447)
+gap_percent: 0.2527964 (113)/(447)
+
+Score: 4972.0
+
+№1  ------------------------------------------------------------
+                                                                
+№2  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+№1  -----------MENIVA--SLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPM
+               .....|  ...:.:.......|::.:...:   ||||..|::|.|.||.
+№2  WLADPTRSLPILKAFMATDIFRVMAFPGFGFAALIAAATIF---VERKMLAKLQLRVGPF
+№1  VVG-WHGLLQPLADGLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEV
+    ..| ..|:||..:|||||:.||.:.|..:.|.::..|.|..:..|:...|:||.:|.:  
+№2  YCGKIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPGW--
+№1  FGIRVKPILTDVNVGLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVI
+           ::.||.:|||..||:.:.......|::|::|||:..||:.|.....:|:|:.:
+№2  -------VVADVDLGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPL
+№1  TFAAMGPIILAQSLSTYSIVQNQIDQKLWYIWLQPVAFVVYMFAMLAETGRVPFDVQEAE
+    ..:..|.:||...|....|...|  ....:|...||:.:|:...||||..|:|||:.|||
+№2  ILSLLGVVILTGTLNLSEIAASQ--SNFPWIIFLPVGAIVFFITMLAELERIPFDLPEAE
+№1  AELVTGFTVEYGGMKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINI--PF--------
+    :|:|.|:..|::||.:||. .:..|:...:.:::.|:||||||.:.::  ||        
+№2  SEIVAGWLTEFSGMMYGLV-QLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFLTGV
+№1  ------VGFFD--PLFFLGPLSPFVWFLLKVGLVFLFVLWLHWTLPRYRIDQITSTAWKV
+          ||.|.  |||....|...:||:||...|..|:|..:...||.|||::.|.:|..
+№2  EMGPLTVGPFPGLPLFDQEMLNGTLWFVLKTVGVIFFILLPRGVFPRIRIDMLLSLGWTK
+№1  MLPLTFVNLVFT-ALIAPLVWK-----
+     .:.|.|||:... :|:...|..     
+№2  LIGLAFVNIFIALGLLYAGVLGPGGLQ
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_003433200.1
+
+identity: 0.56446993 (197)/(349)
+similarity: 0.7335244 (256)/(349)
+gap_percent: 0.037249282 (13)/(349)
+
+Score: 6472.0
+
+№1  MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQPLAD
+    |.::...||:..||:|:||:|:||||||||..|||:|:|||.|.||.:||..||||||||
+№2  MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPLAD
+№1  GLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILTDVNV
+    |:||||||.:.||.:.:.:|.||||.:|.||.|:|:||||||.|.:||..|||::.|||:
+№2  GIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPVISDVNI
+№1  GLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMGPIILAQSL
+    :|:..||.||||||:...:|||||||||.|||.||:::.|:|||::.|:..|.::||..|
+№2  ALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVLLAGTL
+№1  STYSIVQNQIDQKLWYIWLQPVAFVVYMFAMLAETGRVPFDVQEAEAELVTGFTVEYGGM
+    ||.:||..||...:|||..|||||::|.|.||||.||||||:||||||||||::||||||
+№2  STVGIVEAQIKSGVWYILYQPVAFLLYLFCMLAESGRVPFDIQEAEAELVTGYNVEYGGM
+№1  KFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFFDPLFFLGPLSPFVWFLLKVG
+    :||:|||.|||:...:|||::||||.||||:.|           ..||.||::|||:|..
+№2  RFGVFPLAEWYLNVMALSALAVILFFGGWSGPN-----------IFGPFSPYLWFLIKTF
+№1  LVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK
+     .:..|||||||||||:....||..||||.|||...|:|.||::..::  
+№2  SLVFFVLWLHWTLPRFQARDITEIAWKVLLPLALANVVLTAVVLYVL--
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_004616654.1
+
+identity: 0.29859155 (106)/(355)
+similarity: 0.52394366 (186)/(355)
+gap_percent: 0.03661972 (13)/(355)
+
+Score: 5162.0
+
+№1  ----MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQ
+        ...:.....:.|:..|||::::...:.....:|||::|.:|.|.||:.:|..|:.|
+№2  MMVDIIELYNNPWLRGVLGLVLIGVIFIGAMIAVWLERKISADVQYRIGPNRLGKFGIFQ
+№1  PLADGLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILT
+    .:||::||.||||:.|..:.:.|:..|.........|....||||... :.......:..
+№2  LVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGAVI-INDTVYPIVAA
+№1  DVNVGLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMGPIIL
+    :..:::|...|.:::::.:|...:::||.||:|||:.|..:..::|||.::....:..|.
+№2  EMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMITIISVAIM
+№1  AQSLSTYSIVQNQIDQKLWYIWLQPVAFVVYMFAMLAETGRVPFDVQEAEAELVTGFTVE
+    |:||....||  .:....|:|.|||::|.|:..|..:|:||:|||.:|||.|||.|:..|
+№2  ANSLDIIEIV--KVQDPMWFIILQPIGFFVFFVASMSEMGRLPFDQTEAEEELVAGWITE
+№1  YGGMKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIP--FVGFFDPLFFLGPLSPFVW
+    |.||:||    :.::.|.:.....:.::.|...::.|:|  ..|.......||.:.|.|.
+№2  YTGMRFG----LGFFAEYIHMILGSFLIALLFLGGWNLPGLVPGILTSNLILGFIVPTVV
+№1  FLLKVGLVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK
+     .:.|.|:|..|::.|:|.:||:||||:...:||...||..:|||:...:......
+№2  LVAKAGIVLMFIIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLVWAIALTLYMGV
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_844339.1
+
+identity: 0.3721591 (131)/(352)
+similarity: 0.55397725 (195)/(352)
+gap_percent: 0.07386363 (26)/(352)
+
+Score: 5309.0
+
+№1  --MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQPL
+      .|.....:.:: :.::::||.....:.:|..:|||||::||.|||||.||.|||||.:
+№2  MGHEGGTEWVRLI-VGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLLQTI
+№1  ADGLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILTDV
+    .||:||:.||.:.||...:.|:.||.|....|..:.|.|:||||..         ||.|.
+№2  MDGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFGPGL---------ILRDM
+№1  NVGLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMGPIILAQ
+    |||:||.|:.:...|.||..:|||||.||||:|:.|..|..::||:.:....|:.::..:
+№2  NVGILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVLMVN
+№1  SLSTYSIVQNQIDQKLWYIWLQPVAFVVYMFAMLAETGRVPFDVQEAEAELVTGFTVEYG
+    |.....||..|  .::|:|:|||||.::|.....|||.|.|||:.|||:|||.||..||.
+№2  SMRFSEIVAAQ--GRVWFIFLQPVAGLLYLICATAETNRAPFDIPEAESELVAGFHTEYT
+№1  GMKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFFDPLFFLGPLSPFVWFLLK
+    ||:||    :.:..|......:..:..       .:.|.|:..|..|...|...||||:|
+№2  GMRFG----LFFLAEYTNMFIVTAVAT-------SLFFGGWHGPFGFDFGLPGVVWFLIK
+№1  VGLVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK-
+     ..::...:.|::||.||.|.||::..:||..:|:..||||.||::..|:.. 
+№2  TYVLIFVIMWVRWTFPRIRFDQLMNFSWKFLIPVSLVNLVVTAVVLKLIDLN
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_846061.1
+
+identity: 0.42450142 (149)/(351)
+similarity: 0.6296296 (221)/(351)
+gap_percent: 0.06267806 (22)/(351)
+
+Score: 5693.0
+
+№1  MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQPLAD
+    |.|..|:.:::..|:.::||::|.::|||..:|||..|::|.|.||:..|..|||||:||
+№2  MLNWTAGFLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPNRAGKFGLLQPIAD
+№1  GLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILTDVNV
+    .:|.:.|||..|..:.:.:::||.......|.|||||||||.:..::|.::..::.|:||
+№2  IVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTLWGMKIPLVVADLNV
+№1  GLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMGPIILAQSL
+    |||.||||:||:||::||:||||||||:|:|:.|.|:..||||:.:..|....:..|.|.
+№2  GLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVPVVMQARSF
+№1  STYSIVQNQIDQKLWYIWLQPVAFVVYMFAMLAETGRVPFDVQEAEAELVTGFTVEYGGM
+    |...|||.|  .|..:|..|||||.::..:..||..|:|||:.|||.||..||..||:||
+№2  SLVDIVQAQ--EKYPFILTQPVAFAIFVISAMAEIKRIPFDLPEAENELGAGFHTEYSGM
+№1  KFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFFDPLFFLGPLSPFVWFLLKVG
+    :||||.|.| ||.:..|:::..:||||||.:..:|               |.||..:|:.
+№2  RFGLFFLGE-YVNMQVLGGLVAVLFLGGWHGPLLP---------------PVVWLFIKIV
+№1  LVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK--
+     ||.|..:|::.||||.|.||:::.:|||.:||..||:..|:  |.::|.  
+№2  LVALIMIWVRGTLPRLRYDQLMALGWKVLIPLALVNIMVTG--AWVLWMGK
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_002667.1
+
+identity: 0.37047353 (133)/(359)
+similarity: 0.5598886 (201)/(359)
+gap_percent: 0.06406685 (23)/(359)
+
+Score: 5454.0
+
+№1  MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQPLAD
+     .|....|..: :|..:...|::...||.||.|||||:.||.|.||:..|:.||||||||
+№2  -MNWNEILFWL-LKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQPLAD
+№1  GLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFG-----PEF--EVFGIRVKP
+    |:|.||||::||...||..|.:|...:...|...::|:|.|     |.:  |..|:....
+№2  GIKFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGLTFLD
+№1  I-LTDVNVGLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMG
+    : :.....|:|..||::|||||:|.:||||||.||:|:|:.|..:..||||:.:..:..:
+№2  LQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGMSVVS
+№1  PIILAQSLSTYSIVQNQIDQKLWYIWLQP--VAFVVYMFAMLAETGRVPFDVQEAEAELV
+    .:||:.||....|...|:  .||.|:..|  :||.::..||.|||.|:|||:.|||:|||
+№2  IVILSGSLRLTDISASQV--GLWNIFKLPGFIAFCLFVVAMFAETNRLPFDLAEAESELV
+№1  TGFTVEYGGMKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFFDPLFFLGPLS
+    .||..|||:.||    .:.:..|.......:.::.|..:::.::|| |..:. ..|.||.
+№2  VGFHTEYGAFKF----ALFFIAEYMNMITMSCVVTLLFFGGYQVPF-GILEG-HVLQPLF
+№1  PFVWFLLKVGLVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK
+     ..|:||.||.......||::|||||:|.||::|.:||..:|...:|::..::....   
+№2  GLVFFLGKVLFFTFLFLWVRWTLPRFRYDQLMSLGWKKLIPWAILNILIASIYIQF---
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_504007.1
+
+identity: 0.23076923 (84)/(364)
+similarity: 0.42032966 (153)/(364)
+gap_percent: 0.0989011 (36)/(364)
+
+Score: 4484.0
+
+№1  MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQPLAD
+    |...:.:..:.:: ::.|.:|:  .|.:|:.::|..||:.|.|.||      .|.||..|
+№2  MIGELLATGVGAV-LITLFGII--AGLFLMGIDRICAARMQMRQGP------PLTQPFTD
+№1  GLKLLTKEDLFPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILTDVNV
+    ..|||.|:.:.|..:...|:|.|.:.|...|..|...:|.|....| |..:..|.....:
+№2  IRKLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGSILPV-GTPLPIIGEYGDL
+№1  GLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMGP---IILA
+    .|:.:..  .:...|...:|:||.|.||.:|::|.....|:||..:..|..:.   :.:|
+№2  ILIMYLL--TVPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIAWRLAVA
+№1  QSLSTYSIVQNQIDQKLWYIWLQPVAFV--VYMFAMLAETG-----RVPFDVQEAEAELV
+    ..:..:|:  |:|..:..:..:.|.:.:  :.....||...     |:|.|..|||.||.
+№2  GLVMPFSV--NTIAAHPIWTEVGPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAETELC
+№1  TGFTVEYGGMKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFFDPLFFLGPLS
+    .|..|||:|..     |..:.:.:.:.......|.:..:...|:..|.....:  .|...
+№2  GGLLVEYSGRN-----LALFSLSMAAKLVAMAGLAVLLFFPWNLSPVLGLSGI--MGAGV
+№1  PFVWFLLKVGLVFLFVL-WLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK
+    ..::|||||.:|..|.: .::....|:||.::.|..|.....:..:......|.:..::.
+№2  DLLFFLLKVIVVMFFSVSLVRVVMARFRINTVVSLYWGWLTTIGLIGMFLIILDGSFLFG
+№1  ----
+         
+№2  GCLS
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003432080.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.24033149 (87)/(362)
+similarity: 0.42541435 (154)/(362)
+gap_percent: 0.14640884 (53)/(362)
+
+Score: 4519.0
+
+№1  ---MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQP
+       ...|:..|..:::...:|.  :.:.|.:....:||:.|..|.|.||   .|.   ||
+№2  MELVKGILTQLFYIAVYPGLLF--LASYGLFCEWFDRKLYAQMQNRQGP---HWY---QP
+№1  LADGLKLLTKEDLFPRYGNKF-LYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILT
+    :||.:|||.||.:.|...:.. .:.:....|:.........:||.        .|..:: 
+№2  VADFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFH--------SVESVI-
+№1  DVNVGLLLFFALGSLAVYAIALAGWASNSKYALIGSMRKAGIVISYEVVITFAAMGPIIL
+    ..:..|:....|..:......|.||.|:|.|:.|||||....:.:||:.::.|..:|.||
+№2  NFQGNLIAALYLLTIPTITFFLVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPAIL
+№1  AQSLSTYSIVQNQIDQKLWYIWLQPVAFVVYMFAM-LAETG------RVPFDVQEAEAEL
+    |.|..        |.....:...:|:...|...:. ::..:      |||||:..||.|:
+№2  AGSWN--------IADIALFFSANPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAETEI
+№1  VTGFTVEYGGMKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFFDPLFFLGPL
+    |.|...||:|..:| |..:....|::.::|:...:||||  |:.:            |.:
+№2  VGGVFTEYSGRLYG-FIQLAIDMEMVVVAALMNSVFLGG--SLGL------------GGI
+№1  SPFVWFLLKVGLVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK
+    :.||.|::|...:...:..::....|.||:|.....||...||..::::...::..:||.
+№2  AGFVLFIVKTLAIVFVLSLIKSLMARVRIEQMINFCWKYLAPLSLLQIIISIIVRSIVWP
+№1  --
+       
+№2  TL
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_001581614.1
+
+identity: 0.19921105 (101)/(507)
+similarity: 0.3510848 (178)/(507)
+gap_percent: 0.3392505 (172)/(507)
+
+Score: 4992.0
+
+№1  ------------------------------------------------------------
+                                                                
+№2  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+№1  ------------MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPN
+                ....:.|.:.:.|..:.:....:....:..   |||.|::.|||.||.
+№2  WLADPTRSLPILKAFMATDIFRVMAFPGFGFAALIAAATIFV---ERKMLAKLQLRVGPF
+№1  RVGP-KGALQSLADGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFGPEVSV
+    ..|. .|.||..:||:||..||.|.|:..|:.:::.||:|.|..|....|.||.:|...|
+№2  YCGKIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPGWVV
+№1  FGHRTPLQITDLPVAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAM
+    ....         :::|.:.::.:......:|::|::.|.:|.:||:|:..|.:|:|:..
+№2  ADVD---------LGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPL
+№1  GLSFATVFLMAGTMSTSQIVAAQDGVWYAFLLLPSFVIYLISMVGETNRAPFDLPEAEGE
+    .||...|.:..||...|.|.|:|....:...|..:.:::.|.|::|..|.||||||||:|
+№2  ILSLLGVVILTGTLNLSEIAASQSNFPWIIFLPVGAIVFFITMLAELERIPFDLPEAESE
+№1  LVAGFHTEYSSLKFAMFMLAEYVNMTTVSALAATLFFGGWHAPW-----PLNMWASANTG
+    :|||:.||:|:..::..:|:.|:.....::|...||.|||.:|.     |.....:..:|
+№2  IVAGWLTEFSGMMYGLVQLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFLTGVEMG
+№1  -----------------WWPLIWFTAKVWGFLFIYFWLRATLPRLRYDQFMALGWKLLIP
+                     ....:||..|..|.:|.....|:..||:|.|:..:|||..||.
+№2  PLTVGPFPGLPLFDQEMLNGTLWFVLKTVGVIFFILLPRGVFPRIRIDMLLSLGWTKLIG
+№1  VSL--VWVMVAAIIRSLRNQGYQYWTPTLVFSSIVVAAAMVLLLRKPLSAPGARASARQR
+    ::.  :::.::.:..::...|...                                    
+№2  LAFVNIFIALGLLYAGVLGPGGLQ------------------------------------
+№1  GDEGTSPEPAFPTPPLLAGATKENAGG
+                                
+№2  ---------------------------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_003433200.1
+
+identity: 0.34140435 (141)/(413)
+similarity: 0.49636805 (205)/(413)
+gap_percent: 0.1937046 (80)/(413)
+
+Score: 5719.0
+
+№1  MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQSLA
+    |.:.:.|....: .|.:.:...|..........||||.|:.|.|.||..|||.|.||.||
+№2  MAQVSLDLIVTL-IKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPLA
+№1  DGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFGPEVSVFGHRTPLQITDLP
+    |||||..||||.|.|.||.||::|.::|:.||...|:.|||||...:||......|.|:.
+№2  DGIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPVISDVN
+№1  VAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFATVFLMAGT
+    :|::||.:.::::|||.:.:||||.|.|..:|::|..|..|:|||..|.|...|.|.|||
+№2  IALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVLLAGT
+№1  MSTSQIVAAQ--DGVWYAFLLLPSFVIYLISMVGETNRAPFDLPEAEGELVAGFHTEYSS
+    .||..||.||  .||||......:|::||..|::|..|.|||:.|||:|||.|:..||::
+№2  LSTVGIVEAQIKSGVWYILYQPVAFLLYLFCMLAESGRVPFDIQEAEAELVTGYNVEYGG
+№1  LKFAMFMLAE-YVNMTTVSALAATLFFGGWHAPWPLNMWASANTGWWPLIWFTAKVWGFL
+    .:|:.|.||| |:|.:.:||||..||||||.:|   |.::.    :.|.:||..|.::.:
+№2  MRFGVFPLAEWYLNVMALSALAVILFFGGWSGP---NIFGP----FSPYLWFLIKTFSLV
+№1  FIYFWLRATLPRLRYDQFMALGWKLLIPVSLVWVMVAAIIRSLRNQGYQYWTPTLVFSSI
+    |...||:.||||......:.::||:|:|::                          .:.:
+№2  FFVLWLHWTLPRFQARDITEIAWKVLLPLA--------------------------LANV
+№1  VVAAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKENAGG
+     |:.|..:.:|                                           
+№2  VLTAVVLYVL-------------------------------------------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_004616654.1
+
+identity: 0.25 (106)/(424)
+similarity: 0.38915095 (165)/(424)
+gap_percent: 0.21226415 (90)/(424)
+
+Score: 5193.0
+
+№1  -MTTF--GHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQ
+     |...  ...:.||.:..::.:...:.:...:|:..|||:.:..|.|.||||:|..|..|
+№2  MMVDIIELYNNPWLRGVLGLVLIGVIFIGAMIAVWLERKISADVQYRIGPNRLGKFGIFQ
+№1  SLADGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFGPEVSVFGHRTPLQIT
+    .:||:|||..||.|.|...||.::..||.:.....|.....||||. |.:.....|:...
+№2  LVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGA-VIINDTVYPIVAA
+№1  DLPVAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFATVFLM
+    :..:::|:|.:.|||::.||...:::|...|.|:|:.|..|..::|||...:....|.:|
+№2  EMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMITIISVAIM
+№1  AGTMSTSQIVAAQDGVWYAFLLLPSFVIYLISMVGETNRAPFDLPEAEGELVAGFHTEYS
+    |.......||..||..|:..|...:|.::.::..:|:.|.|||..|||.|||||:.|||.
+№2  ANSLDIIEIVKVQDPMWFIILQPIGFFVFFVASMSEMGRLPFDQTEAEEELVAGWITEYT
+№1  SLKFAMFMLAEYVNMTTVSALAATLFFGGWHAPWPLNMWASANTGW---WPLIWFTAKVW
+    :.:|:....|||:.|...|.|.|.||.|||..|..:.....:|...   .|.:...||..
+№2  GMRFGLGFFAEYIHMILGSFLIALLFLGGWNLPGLVPGILTSNLILGFIVPTVVLVAKAG
+№1  GFLFIYFWLRATLPRLRYDQ--------FMALGWKLLIPVSLVWVMVAAIIRSLRNQGYQ
+    ..|.....||..:||.|.||        ...|:...|: .::......::          
+№2  IVLMFIIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLV-WAIALTLYMGV----------
+№1  YWTPTLVFSSIVVAAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKE
+                                                                
+№2  ------------------------------------------------------------
+№1  NAGG
+         
+№2  ----
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_844339.1
+
+identity: 0.3625304 (149)/(411)
+similarity: 0.50364965 (207)/(411)
+gap_percent: 0.20194647 (83)/(411)
+
+Score: 5787.0
+
+№1  MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQSLA
+    |...|...|..:....:.:..|.:|:.|..:..|||:.||.||||||:.|||:|.||.:.
+№2  MGHEGGTEWVRLIVGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLLQTIM
+№1  DGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFGPEVSVFGHRTPLQITDLP
+    |||||..||.|||.::||.::.:||::...|...:|..:||||.         |.:.|..
+№2  DGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFGPG---------LILRDMN
+№1  VAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFATVFLMAGT
+    |::|.|.:.|...|.:|:.|||||...|.|||::||.:|.::||:...|....|.||...
+№2  VGILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVLMVNS
+№1  MSTSQIVAAQDGVWYAFLLLPSFVIYLISMVGETNRAPFDLPEAEGELVAGFHTEYSSLK
+    |..|.|||||..||:.||...:.::|||...:||||||||:||||:||||||||||.:.:
+№2  MRFSEIVAAQGRVWFIFLQPVAGLLYLICATAETNRAPFDIPEAESELVAGFHTEYTGMR
+№1  FAMFMLAEYVNMTTVSALAATLFFGGWHAPWPLNMWASANTGWWPLIWFTAKVWGFLFIY
+    |:.|.||||.||..|.|:|..|||||||:|:..      ..|...::||..|.:..:|:.
+№2  FGLFFLAEYTNMFIVTAVATSLFFGGWHGPFGF------DFGLPGVVWFLIKTYVLIFVI
+№1  FWLRATLPRLRYDQFMALGWKLLIPVSLV-WVMVAAIIRSLRNQGYQYWTPTLVFSSIVV
+    .|:|.|.||:|:||.|..:||.||||||| .|..|.:::.:..:                
+№2  MWVRWTFPRIRFDQLMNFSWKFLIPVSLVNLVVTAVVLKLIDLN----------------
+№1  AAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKENAGG
+                                                        
+№2  ---------------------------------------------------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_846061.1
+
+identity: 0.3616505 (149)/(412)
+similarity: 0.50970876 (210)/(412)
+gap_percent: 0.20145631 (83)/(412)
+
+Score: 5731.0
+
+№1  MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQSLA
+    |.::... :.::.||...|...|.|.....:..|||.|:|.|:|.||||.|..|.||.:|
+№2  MLNWTAG-FLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPNRAGKFGLLQPIA
+№1  DGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFGPEVSVFGHRTPLQITDLP
+    |.:|...||...|.|.:|.::.:||.:....|...||.||||.:|.::|.:.||.:.||.
+№2  DIVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTLWGMKIPLVVADLN
+№1  VAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFATVFLMAGT
+    |::|:..:||::||||:.||||||.|.|.||||:|:.||.||||::.||:...|..:|..
+№2  VGLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVPVVMQARS
+№1  MSTSQIVAAQDGVWYAFLLLPSFVIYLISMVGETNRAPFDLPEAEGELVAGFHTEYSSLK
+    .|...||.||:...:......:|.|::||..:|..|.||||||||.||.||||||||:.:
+№2  FSLVDIVQAQEKYPFILTQPVAFAIFVISAMAEIKRIPFDLPEAENELGAGFHTEYSGMR
+№1  FAMFMLAEYVNMTTVSALAATLFFGGWHAPWPLNMWASANTGWWPLIWFTAKVWGFLFIY
+    |:.|.|:|||||:.:::|.|.||.||||:|.           ..|::|...|:.....|.
+№2  FGLFFLGEYVNMQVLGGLVAVLFLGGWHGPL-----------LPPVVWLFIKIVLVALIM
+№1  FWLRATLPRLRYDQFMALGWKLLIPVSLVWVMVAA--IIRSLRNQGYQYWTPTLVFSSIV
+    .|:|:|||||||||.||||||:|||::||.:||.:  ::...:                 
+№2  IWVRGTLPRLRYDQLMALGWKVLIPLALVNIMVTGAWVLWMGK-----------------
+№1  VAAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKENAGG
+                                                         
+№2  ----------------------------------------------------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_002667.1
+
+identity: 0.34285715 (144)/(420)
+similarity: 0.4904762 (206)/(420)
+gap_percent: 0.2 (84)/(420)
+
+Score: 5487.0
+
+№1  MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQSLA
+       ...........|:...|..|........|||||:.|..|.|.||||.|..|.||.||
+№2  ---MNWNEILFWLLKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQPLA
+№1  DGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFG---PEVSVFGHRTPLQIT
+    ||||...||.:.|..:.:..|.:||.||...|.:|::.:|.|   |..|....:|.|:..
+№2  DGIKFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGLTFL
+№1  DL-----PVAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFA
+    ||     ..::||:.::|:::||||:::||||...|.|||:||||||.||||:..|.|..
+№2  DLQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGMSVV
+№1  TVFLMAGTMSTSQIVAAQDGVWYAFLL--LPSFVIYLISMVGETNRAPFDLPEAEGELVA
+    .:.:.:|......|.|:|.|:|..|.|  ..:|.:::::|.:||||.||||.|||:|||.
+№2  SIVILSGSLRLTDISASQVGLWNIFKLPGFIAFCLFVVAMFAETNRLPFDLAEAESELVV
+№1  GFHTEYSSLKFAMFMLAEYVNMTTVSALAATLFFGGWHAPWPLNMWASANTGWWPLIWFT
+    ||||||::.|||.|.:|||.||.|.|.:...|||||:..|:.: ..:...:..:.|::|.
+№2  GFHTEYGAFKFALFFIAEYMNMITMSCVVTLLFFGGYQVPFGI-LEGHVLQPLFGLVFFL
+№1  AKVWGFLFIYFWLRATLPRLRYDQFMALGWKLLIPVSLVWVMVAAIIRSLRNQGYQYWTP
+    :||..|.|::.|:|.||||.||||.|:||||.|||.:::.:.:|:|.       .|:   
+№2  GKVLFFTFLFLWVRWTLPRFRYDQLMSLGWKKLIPWAILNILIASIY-------IQF---
+№1  TLVFSSIVVAAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKENAGG
+                                                                
+№2  ------------------------------------------------------------
+№1  
+     
+№2  
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_504007.1
+
+identity: 0.20567375 (87)/(423)
+similarity: 0.34751773 (147)/(423)
+gap_percent: 0.21985815 (93)/(423)
+
+Score: 4485.0
+
+№1  MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQSLA
+        ........:..|:.:.:|..:..|.....:|...:|||.|.||....|      ..
+№2  ----MIGELLATGVGAVLITLFGIIAGLFLMGIDRICAARMQMRQGPPLTQP------FT
+№1  DGIKLALKESITPGGIDRFVYFVAPIISVIPAFTAFAFIPFGPEVSVFGHRTPL--QITD
+    |..||..|:|:.|:.....::..|||::...|.|...::|.|..:.| |...|:  ...|
+№2  DIRKLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGSILPV-GTPLPIIGEYGD
+№1  LPVAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFATV---F
+    | :.:.::|.:.|:   :.|.||:||||.|..:|:.|.:.:.|:||...:::...:   .
+№2  L-ILIMYLLTVPAL---AMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIAWRL
+№1  LMAGTMSTS-------QIVAAQDGVWYAFLLLPSFVIYLISMVGETNRAPFDLPEAEGEL
+    ..||.....       ..:....|.......:...::....:.:|..|.|.|.||||.||
+№2  AVAGLVMPFSVNTIAAHPIWTEVGPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAETEL
+№1  VAGFHTEYSSLKFAMFMLAEYVNMTTVSALAATLFFGGWHAPWPLNMWASANTGWWPLIW
+    .:|...|||:...|.|.|:........::||..||| .|.....|.. ::.:.:...|::
+№2  CGGLLVEYSGRNLALFSLSMAAKLVAMAGLAVLLFF-PWNLSPVLGL-SGIMGAGVDLLF
+№1  FTAKVWGFLFIYF-WLRATLPRLRYDQFMALGWKLLIPVSLVWVMVAAIIRSLRNQGYQY
+    |..||....|... .:|....|.|..:..:|.|..|..::|: .|...|:.     |...
+№2  FLLKVIVVMFFSVSLVRVVMARFRINTVVSLYWGWLTTIGLI-GMFLIILD-----GSFL
+№1  WTPTLVFSSIVVAAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKEN
+    :...|.                                                      
+№2  FGGCLS------------------------------------------------------
+№1  AGG
+        
+№2  ---
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >NP_337765.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.2184466 (90)/(412)
+similarity: 0.36407766 (150)/(412)
+gap_percent: 0.22330096 (92)/(412)
+
+Score: 4491.0
+
+№1  MTTFGHDTWWLVAAKAIAVFVFLMLTVLVAILAERKLLGRMQLRPGPNRVGPKGALQSLA
+    |.........|.........:||....|.....:|||.:.||.|.||....|      :|
+№2  MELVKGILTQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGPHWYQP------VA
+№1  DGIKLALKESITPGGIDRF-VYFVAPIISVIPAFTAFAFIPFGPEVSVFGHRTPLQITDL
+    |.|||..||.:.|:.:... .:.|.|.:::....|....:||.      :....::.:..
+№2  DFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFH------SVESVINFQGN
+№1  PVAVLFILGLSAIGVYGIVLGGWASGSTYPLLGGVRSTAQVISYEVAMGLSFATVFLMAG
+    .:|.|::|.:..|..:   |.||.|.|.|..:|:.|...|:.:||:....:.....:.||
+№2  LIAALYLLTIPTITFF---LVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPAILAG
+№1  TMSTSQIVAAQDGVWYAFLL-LPSFVIYLISMVGETNRAPFDLPEAEGELVAGFHTEYSS
+    ....:.|.....:......: :.:..:.||:..|...|.|||:|.||.|:|:|..||||:
+№2  SWNIADIALFFSANPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAETEIVGGVFTEYSG
+№1  LKFAMFMLAEYVNMTTVSALAATLFFGGWHAPWPLNMWASANTGWWPLIWFTAKVWGFLF
+    ..::..:||....|..|:||...:|.||..:.          .|....:.|..|..:.:|
+№2  RLYGFIQLAIDMEMVVVAALMNSVFLGGSLGL----------GGIAGFVLFIVKTLAIVF
+№1  IYFWLRATLPRLRYDQFMALGWKLLIPVSLVWVMVAAIIRSLRNQGYQYWTPTLVFSSIV
+    :...:::...|:|.:|.....||.|.|:||:.:.::.|:|      ...| |||      
+№2  VLSLIKSLMARVRIEQMINFCWKYLAPLSLLQIIISIIVR------SIVW-PTL------
+№1  VAAAMVLLLRKPLSAPGARASARQRGDEGTSPEPAFPTPPLLAGATKENAGG
+                                                         
+№2  ----------------------------------------------------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_001581614.1
+Sequence №2: >YP_003433200.1
+
+identity: 0.26576576 (118)/(444)
+similarity: 0.43693694 (194)/(444)
+gap_percent: 0.27027026 (120)/(444)
+
+Score: 5195.0
+
+№1  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+                                                                
+№2  ------------------------------------------------------------
+№1  WLADPTRSLPILKAFMATDIFRVMAFPGFGFAALIAAATIFVERKMLAKLQLRVGPFYCG
+              .........:..:......|....::|...:.|||..:::|.|.||...|
+№2  ----------MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVG
+№1  KIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPGW-----
+    .. |:||..:||:||:.||.|||..||:|:::.|.|:.:|.|....::||.:||:     
+№2  PF-GLLQPLADGIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGY
+№1  ----VVADVDLGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPLILS
+        |::||.::|:.:||..:.....||.|:|::|||:.|||::|....|:::|:.|..|
+№2  EVKPVISDVNIALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFS
+№1  LLGVVILTGTLNLSEI--AASQSNFPWIIFLPVGAIVFFITMLAELERIPFDLPEAESEI
+    :||||:|.|||....|  |...|...:|::.||:.:::...||||..|:|||:.|||:|:
+№2  VLGVVLLAGTLSTVGIVEAQIKSGVWYILYQPVAFLLYLFCMLAESGRVPFDIQEAEAEL
+№1  VAGWLTEFSGMMYGLVQLGT-YLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFLTGVEMG
+    |.|:..|::||.:|:..|:. ||.:.|.::|.|:||.|||.||                 
+№2  VTGYNVEYGGMRFGVFPLAEWYLNVMALSALAVILFFGGWSGP-----------------
+№1  PLTVGPFPGLPLFDQEMLNGTLWFVLKTVGVIFFILLPRGVFPRIRIDMLLSLGWTKLIG
+     ...||           ....|||::||.:::||:|..:...||.....:..::|..|:.
+№2  -NIFGP-----------FSPYLWFLIKTFSLVFFVLWLHWTLPRFQARDITEIAWKVLLP
+№1  LAFVNIFIALGLLYAGVLGPGGLQ
+     ||..|:.:...:||..        
+№2  LALANVVLTAVVLYVL--------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_001581614.1
+Sequence №2: >YP_004616654.1
+
+identity: 0.26681614 (119)/(446)
+similarity: 0.41255605 (184)/(446)
+gap_percent: 0.25112107 (112)/(446)
+
+Score: 5324.0
+
+№1  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+                                                                
+№2  ------------------------------------------------------------
+№1  WLADPTRSLPILKAFMATDIFRV-MAFPGFGFAALIAAATIFVERKMLAKLQLRVGPFYC
+           ....:.....:...|. .:....|...:.|...:::|||..|.:|.|:||...
+№2  -------MMVDIIELYNNPWLRGVLGLVLIGVIFIGAMIAVWLERKISADVQYRIGPNRL
+№1  GKIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPGWVV--
+    ||. ||.||.:|::||..||.|||.|||:.:|..||.:..|.....:..||.:...:.  
+№2  GKF-GIFQLVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGAVIINDT
+№1  ------ADVDLGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPLILS
+          |:.|:::|.:.|..:...|.....|:::|.|:..||:.|....||::|:||.:.
+№2  VYPIVAAEMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMIT
+№1  LLGVVILTGTLNLSEIAASQSNFPWIIFLPVGAIVFFITMLAELERIPFDLPEAESEIVA
+    :::|.|....|.:.||...|....:||..|:|..|||:...:|..|:|||..|||.|:||
+№2  IISVAIMANSLDIIEIVKVQDPMWFIILQPIGFFVFFVASMSEMGRLPFDQTEAEEELVA
+№1  GWLTEFSGMMYGLVQLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFLTGVEMGPLT
+    ||:||:.||.:||...:.|::....:.|..:|||||||.|                    
+№2  GWITEYTGMRFGLGFFAEYIHMILGSFLIALLFLGGWNLP--------------------
+№1  VGPFPGLPLFDQEMLNGTL----WFVLKTVGVIFFILLPRGVFPRIRIDMLLSLGWTKLI
+     |..||  :.....:.|.:    ..|.|...|:.||:..|...||.|||:::.|:|.||.
+№2  -GLVPG--ILTSNLILGFIVPTVVLVAKAGIVLMFIIMLRWAVPRFRIDQVVNLSWKKLF
+№1  GLAFVNIFIALGL-LYAGVLGPGGLQ
+     .|:.:|:..|::| ||.||       
+№2  PLSVINLVWAIALTLYMGV-------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_001581614.1
+Sequence №2: >YP_844339.1
+
+identity: 0.2718894 (118)/(434)
+similarity: 0.44470045 (193)/(434)
+gap_percent: 0.24654378 (107)/(434)
+
+Score: 5355.0
+
+№1  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+                                                                
+№2  ------------------------------------------------------------
+№1  WLADPTRSLPILKAFMATDIFRVMA--FPGFGFAALIAAATIFVERKMLAKLQLRVGPFY
+               .....:|:..|:..  ....:|:.|.|...:::|||..:::|||.||..
+№2  -----------MGHEGGTEWVRLIVGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPME
+№1  CGKIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPGWVVA
+    .|. .|:||...||:||::||:|.|...|:.:|..|||:..........::|.:||.::.
+№2  VGP-HGLLQTIMDGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFGPGLILR
+№1  DVDLGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPLILSLLGVVIL
+    |..:|:|.:|:...|..:..:.::|::|.|:..:|:||::.|:|::||||:|.:.:||:.
+№2  DMNVGILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVLM
+№1  TGTLNLSEIAASQSNFPWIIFLPVGAIVFFITMLAELERIPFDLPEAESEIVAGWLTEFS
+    ......|||.|:|:...:|...||:::::.|...||..|.|||:||||||:|||:.||:.
+№2  VNSMRFSEIVAAQGRVWFIFLQPVAGLLYLICATAETNRAPFDIPEAESELVAGFHTEYT
+№1  GMMYGLVQLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFLTGVEMGPLTVGPFPGL
+    ||.:||..|:.|...:...::...||.|||.||           .|.:.|          
+№2  GMRFGLFFLAEYTNMFIVTAVATSLFFGGWHGP-----------FGFDFG----------
+№1  PLFDQEMLNGTLWFVLKTVGVIFFILLPRGVFPRIRIDMLLSLGWTKLIGLAFVNIFIAL
+           |.|.:||::||..:||.|...|..|||||.|:|...:|..||.::.||:.:..
+№2  -------LPGVVWFLIKTYVLIFVIMWVRWTFPRIRFDQLMNFSWKFLIPVSLVNLVVTA
+№1  GLLYAGVLGPGGLQ
+     .:|....|.     
+№2  VVLKLIDLN-----
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_001581614.1
+Sequence №2: >YP_846061.1
+
+identity: 0.2988764 (133)/(445)
+similarity: 0.43595505 (194)/(445)
+gap_percent: 0.28539327 (127)/(445)
+
+Score: 5133.0
+
+№1  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+                                                                
+№2  ------------------------------------------------------------
+№1  WLADPTRSLPILKAFMATDIFRVMAFP---GFGFAALIAAATIFVERKMLAKLQLRVGPF
+                 ..:.|..|.|....   ..:...|:||..:::|||.||:||:|.||.
+№2  -------------MLNWTAGFLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPN
+№1  YCGKIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPG---
+    ..||. |:||..:|.:|.::||..:|..|::.||..||.:..|||....|:||.:..   
+№2  RAGKF-GLLQPIADIVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTL
+№1  W------VVADVDLGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPL
+    |      ||||:.:|||..||:.:.......|::|::|||:..:||||:..||:|:|:.|
+№2  WGMKIPLVVADLNVGLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSL
+№1  ILSLLGVVILTGTLNLSEIAASQSNFPWIIFLPVGAIVFFITMLAELERIPFDLPEAESE
+    .|:::.||.......|.:|..:|..:|:|:..||:..:|.|...||:.||||||||||.|
+№2  GLAIVPVVMQARSFSLVDIVQAQEKYPFILTQPVAFAIFVISAMAEIKRIPFDLPEAENE
+№1  IVAGWLTEFSGMMYGLVQLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFLTGVEMG
+    :.||:.||:|||.:||..||.|:.....:||..|||||||.||.:.|             
+№2  LGAGFHTEYSGMRFGLFFLGEYVNMQVLGGLVAVLFLGGWHGPLLPP-------------
+№1  PLTVGPFPGLPLFDQEMLNGTLWFVLKTVGVIFFILLPRGVFPRIRIDMLLSLGWTKLIG
+                        .:|..:|.|.|....:..||..||:|.|:|.:|||..||.
+№2  --------------------VVWLFIKIVLVALIMIWVRGTLPRLRYDQLMALGWKVLIP
+№1  LAFVNIFIALG-LLYAGVLGPGGLQ
+     ||.|||.:..: :|:.|.       
+№2  LALVNIMVTGAWVLWMGK-------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_001581614.1
+Sequence №2: >YP_002667.1
+
+identity: 0.25165564 (114)/(453)
+similarity: 0.40397352 (183)/(453)
+gap_percent: 0.2825607 (128)/(453)
+
+Score: 4989.0
+
+№1  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+                                                                
+№2  ------------------------------------------------------------
+№1  WLADPTRSLPILKAFMATDIFRVMAFPGFGFAALIAAATIFV--ERKMLAKLQLRVGPFY
+                  .:.::|.......|..|..||.|...:.  |||..:.:|.|.||..
+№2  --------------MNWNEILFWLLKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNR
+№1  CGKIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPG----
+    .| ..|:||..:||:|.:.||.:.|....|..:..||.|....|....:::|::..    
+№2  AG-FWGLLQPLADGIKFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLP
+№1  -WV------------VADVDLGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQM
+     |:            :|..|.|:|.:||:.:......|:::|::|.|:..:|::|:..||
+№2  SWLQEKTGLTFLDLQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQM
+№1  VSFEIPLILSLLGVVILTGTLNLSEIAASQSNFPWIIFLP--VGAIVFFITMLAELERIP
+    :|:|:||..|::::|||.|.|.|.:|:|||.....|..||  ::..:|.:.|.||..|:|
+№2  ISYELPLGMSVVSIVILSGSLRLTDISASQVGLWNIFKLPGFIAFCLFVVAMFAETNRLP
+№1  FDLPEAESEIVAGWLTEFSGMMYGLVQLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPE
+    |||.|||||:|.|:.||:::..::|..::.|......:.:..:||.||::.|..:     
+№2  FDLAEAESELVVGFHTEYGAFKFALFFIAEYMNMITMSCVVTLLFFGGYQVPFGI-----
+№1  EFLTGVEMGPLTVGPFPGLPLFDQEMLNGTLWFVLKTVGVIFFILLPRGVFPRIRIDMLL
+      |.|....|                |.|.::|:.|.:...|..|..|...||.|.|:|.
+№2  --LEGHVLQP----------------LFGLVFFLGKVLFFTFLFLWVRWTLPRFRYDQLM
+№1  SLGWTKLIGLAFVNIFIALGLLYAGVLGPGGLQ
+     ||||.|||..|.:||.||...:..         
+№2  SLGWKKLIPWAILNILIASIYIQF---------
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_001581614.1
+Sequence №2: >YP_504007.1
+
+identity: 0.20842572 (94)/(451)
+similarity: 0.3880266 (175)/(451)
+gap_percent: 0.28159645 (127)/(451)
+
+Score: 4592.0
+
+№1  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+                                                                
+№2  ------------------------------------------------------------
+№1  WLADPTRSLPILKAFMATDIFRV-MAFPGFGFAALIAAATIF-VERKMLAKLQLRVGPFY
+                   |..::... .:.......::||:..:. ::|...|:.|.|.||  
+№2  ---------------MIGELLATGVGAVLITLFGIIAGLFLMGIDRICAARMQMRQGP--
+№1  CGKIEGILQLMGDGLKLISKEIIIPAKADKPIFWAAPVIFVATAAAFVALIPVAPGWVV-
+         .:.|...|..||:.|:.::||.|...:|.|||::..|.|...:..:|::....| 
+№2  -----PLTQPFTDIRKLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGSILPVG
+№1  --ADV--DLG-LLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPLILSL
+      ..:  :.| |:.:..::....:.::.:::::.|.:..:|:.|...:|:::|.||.:::
+№2  TPLPIIGEYGDLILIMYLLTVPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAI
+№1  LGV---VILTGTLNLSEIAASQSNFPWIIFLPVG--AIVFFITMLA-----ELERIPFDL
+    :::   :.:.|.::...:....:...|....|.|  :.:..:..||     ||.|||.|.
+№2  VAIAWRLAVAGLVMPFSVNTIAAHPIWTEVGPAGIIGCILLLIVLAWVTPAELSRIPCDT
+№1  PEAESEIVAGWLTEFSGMMYGLVQLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFL
+    ||||.|:.:|.|.|:||.:.:|..|::..||.|.|| ..||....||...|:.      |
+№2  PEAETELCGGLLVEYSGRNLALFSLSMAAKLVAMAG-LAVLLFFPWNLSPVLG------L
+№1  TGVEMGPLTVGPFPGLPLFDQEMLNGTLWFVLKTVGVIFF-ILLPRGVFPRIRIDMLLSL
+    .|: ||                .....|:|:||.:.|.|| :.|.|.|..|.||.:::||
+№2  SGI-MG----------------AGVDLLFFLLKVIVVMFFSVSLVRVVMARFRINTVVSL
+№1  GWTKLIGLAFVNIFIALGLLYAGVLGPGGLQ
+     .|..|..::.:..|:.  :|.::.|..|.|.
+№2  YWGWLTTIGLIGMFLI--ILDGSFLFGGCLS
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_001581614.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.2178899 (95)/(436)
+similarity: 0.39449543 (172)/(436)
+gap_percent: 0.2706422 (118)/(436)
+
+Score: 4701.0
+
+№1  MSALAPKFKLSEFIKSLLDNAFWVVLLVSLIGLPAIQVAFFYIEMPVINGELLTPFLAMT
+                                                                
+№2  ------------------------------------------------------------
+№1  WLADPTRSLPILKAFMATDIFRVMAFPGFGFAALIAAATIFVERKMLAKLQLRVGPFYCG
+            ..::|:.. |.:|.:..:||..|.|..:....:.:||..|..|.|.||.:  
+№2  --------MELVKGIL-TQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGPHW--
+№1  KIEGILQLMGDGLKLISKEIIIPAKADK-PIFWAAPVIFVATAAAFVALIPVAPGWVVAD
+         .|..:|.:||:|||:::|:.... ..|...|.:.::........:|......|..
+№2  -----YQPVADFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFHSVESVIN
+№1  VDLGLLGVFAVIGFFPIITILSAWSANSKFPFIGGIRALFQMVSFEIPLILSLLGVVILT
+    ....|::...::....|...|.:|.::|.:..||:.|.|.|..::||||..:.|:..||.
+№2  FQGNLIAALYLLTIPTITFFLVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPAILA
+№1  GTLNLSEIAASQSNFPWIIFLPVGAIVFFITMLAE---LERIPFDLPEAESEIVAGWLTE
+    |..|:::||...|..|.:.|:.:.::  |:..:|.   |||:|||:|.||.|||:|..||
+№2  GSWNIADIALFFSANPLLMFVNIIGL--FVSLIALQGKLERVPFDIPHAETEIVGGVFTE
+№1  FSGMMYGLVQLGTYLKLYAFAGLFVVLFLGGWNGPMVVPPFPEEFLTGVEMGPLTVGPFP
+    :||..||.:||:........|:|...:||||..|...:                      
+№2  YSGRLYGFIQLAIDMEMVVVAALMNSVFLGGSLGLGGI----------------------
+№1  GLPLFDQEMLNGTLWFVLKTVGVIFFILLPRGVFPRIRIDMLLSLGWTKLIGLAFVNIFI
+              .|.:.|::||::::|.:.|.:::..|:||::.:...|..|..|:.::|.|
+№2  ----------AGFVLFIVKTLAIVFVLSLIKSLMARVRIEQMINFCWKYLAPLSLLQIII
+№1  ALGLLYAGVLGPGGLQ
+     :  ::..:::.|..  
+№2  S--IIVRSIVWPTL--
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003433200.1
+Sequence №2: >YP_004616654.1
+
+identity: 0.32577905 (115)/(353)
+similarity: 0.53541076 (189)/(353)
+gap_percent: 0.062322944 (22)/(353)
+
+Score: 5439.0
+
+№1  ----MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQ
+        ...:.....:..:..|:|:|::...:....|.|||:::.:|.|.||..:|.||:.|
+№2  MMVDIIELYNNPWLRGVLGLVLIGVIFIGAMIAVWLERKISADVQYRIGPNRLGKFGIFQ
+№1  PLADGIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPG-FNLFGYEVKPVI
+    .:||:|||.|||.|||..|||.::..|..:..|...|....||||.. .|...|.:  |.
+№2  LVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGAVIINDTVYPI--VA
+№1  SDVNIALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVL
+    ::..|::::|.||:::::.|....:::||.||:.||:.|..|.|::|||.|...:::|.:
+№2  AEMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMITIISVAI
+№1  LAGTLSTVGIVEAQIKSGVWYILYQPVAFLLYLFCMLAESGRVPFDIQEAEAELVTGYNV
+    .|..|..:.||  .:....|:|:.||::|.::.....:|.||:|||.:|||.|||.|:..
+№2  MANSLDIIEIV--KVQDPMWFIILQPIGFFVFFVASMSEMGRLPFDQTEAEEELVAGWIT
+№1  EYGGMRFGVFPLAEWYLNVMALSALAVILFFGGWSGPNIFGP----------FSPYLWFL
+    ||.|||||:...||: :.....|.|..:||.|||..|.:...          ..|.:..:
+№2  EYTGMRFGLGFFAEY-IHMILGSFLIALLFLGGWNLPGLVPGILTSNLILGFIVPTVVLV
+№1  IKTFSLVFFVLWLHWTLPRFQARDITEIAWKVLLPLALANVVLT-AVVLYVL-
+     .|...::.|::.|:|.:|||....:..::||.|.||::.|:|.. |:.||.. 
+№2  AKAGIVLMFIIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLVWAIALTLYMGV
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003433200.1
+Sequence №2: >YP_844339.1
+
+identity: 0.4239766 (145)/(342)
+similarity: 0.61403507 (210)/(342)
+gap_percent: 0.055555556 (19)/(342)
+
+Score: 5618.0
+
+№1  -MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPLA
+     ....:.:.:..::.::::|:.....:.:|.|.|||:||:||.|.||..|||.||||.:.
+№2  MGHEGGTEWVRLIVGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLLQTIM
+№1  DGIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPVISDVN
+    |||||:.||.|.||:.||.::.||.||...|.|:.|.|:|||||.         ::.|.|
+№2  DGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFGPGL---------ILRDMN
+№1  IALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVLLAGT
+    ::::.||:.:...|.:.:.:|||||.|||.:|::|..:.::|||:.|...|.:|||   :
+№2  VGILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVL---M
+№1  LSTVGIVEAQIKSG-VWYILYQPVAFLLYLFCMLAESGRVPFDIQEAEAELVTGYNVEYG
+    :......|.....| ||:|..||||.||||.|..||..|.||||.|||:|||.|:..||.
+№2  VNSMRFSEIVAAQGRVWFIFLQPVAGLLYLICATAETNRAPFDIPEAESELVAGFHTEYT
+№1  GMRFGVFPLAEWYLNVMALSALAVILFFGGWSGPNIFGPFSPYL-WFLIKTFSLVFFVLW
+    |||||:|.|||: .|...:.|:|..||||||.||..|....|.: ||||||:.|:|.:.|
+№2  GMRFGLFFLAEY-TNMFIVTAVATSLFFGGWHGPFGFDFGLPGVVWFLIKTYVLIFVIMW
+№1  LHWTLPRFQARDITEIAWKVLLPLALANVVLTAVVLYVL---
+     ::||.||.....::..:||.|:|::|.|:|:|||||.::   
+№2  VRWTFPRIRFDQLMNFSWKFLIPVSLVNLVVTAVVLKLIDLN
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003433200.1
+Sequence №2: >YP_846061.1
+
+identity: 0.42307693 (143)/(338)
+similarity: 0.6449704 (218)/(338)
+gap_percent: 0.026627218 (9)/(338)
+
+Score: 5874.0
+
+№1  MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPLAD
+    |.:.....:|.:.|:.::|::||.::|||.|.|||..:::|.|.||...|.||||||:||
+№2  MLNWTAGFLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPNRAGKFGLLQPIAD
+№1  GIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPVISDVNI
+    .:|.:.||..:|.||:|.::.||..:..|.|||:|:|||||...:|:|..:..|::|:|:
+№2  IVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTLWGMKIPLVVADLNV
+№1  ALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVLLAGTL
+    :|::.||.:||:|||...:||||||||:.:|::|.:|.||:||:.||.:::.||..|...
+№2  GLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVPVVMQARSF
+№1  STVGIVEAQIKSGVWYILYQPVAFLLYLFCMLAESGRVPFDIQEAEAELVTGYNVEYGGM
+    |.|.||.||.|...  ||.|||||.:::....||..|:|||:.|||.||..|:..||:||
+№2  SLVDIVQAQEKYPF--ILTQPVAFAIFVISAMAEIKRIPFDLPEAENELGAGFHTEYSGM
+№1  RFGVFPLAEWYLNVMALSALAVILFFGGWSGPNIFGPFSPYLWFLIKTFSLVFFVLWLHW
+    |||:|.|:|: :|.:.|::|..:||.|||.||    ...|.:|..||...:....:|::.
+№2  RFGLFFLGEY-VNMQVLGGLVAVLFLGGWHGP----LLPPVVWLFIKIVLVALIMIWVRG
+№1  TLPRFQARDITEIAWKVLLPLALANVVLTAVVLYVL--
+     ||||.....::.::||||:||||.|:.:|:..:...  
+№2  TLPRLRYDQLMALGWKVLIPLALVNIMVTGAWVLWMGK
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003433200.1
+Sequence №2: >YP_002667.1
+
+identity: 0.3806818 (134)/(352)
+similarity: 0.57670456 (203)/(352)
+gap_percent: 0.0625 (22)/(352)
+
+Score: 5535.0
+
+№1  MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPLAD
+      :...:::..|:|..|...||:...||.|..|||:||.||.|.||...|.:||||||||
+№2  --MNWNEILFWLLKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQPLAD
+№1  GIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPV------
+    |||.||||.:.|....:..|.:|..:|...|:..:||:|.|....|.::.....      
+№2  GIKFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGLTFLD
+№1  --ISDVNIALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLG
+      |:....:::|:||.:||||||.|.:|||||.||:.:|::|..|.||:||:.||.||::
+№2  LQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGMSVVS
+№1  VVLLAGTLSTVGIVEAQIKSGVWYILYQP--VAFLLYLFCMLAESGRVPFDIQEAEAELV
+    :|:|:|.|....|  :....|:|.|...|  :||.|::..|.||..|:|||:.|||:|||
+№2  IVILSGSLRLTDI--SASQVGLWNIFKLPGFIAFCLFVVAMFAETNRLPFDLAEAESELV
+№1  TGYNVEYGGMRFGVFPLAEWYLNVMALSALAVILFFGGWSGP------NIFGPFSPYLWF
+    .|:..|||:.:|::|.:|| |.|....|.:..:|||||:..|      .:..|....::|
+№2  VGFHTEYGAFKFALFFIAE-YMNMITMSCVVTLLFFGGYQVPFGILEGHVLQPLFGLVFF
+№1  LIKTFSLVFFVLWLHWTLPRFQARDITEIAWKVLLPLALANVVLTAVVLYVL
+     |.|.....|..||::||||||....::.::||.|:|.|:.|:::.::.:.. 
+№2  LGKVLFFTFLFLWVRWTLPRFRYDQLMSLGWKKLIPWAILNILIASIYIQF-
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003433200.1
+Sequence №2: >YP_504007.1
+
+identity: 0.24033149 (87)/(362)
+similarity: 0.44751382 (162)/(362)
+gap_percent: 0.12430939 (45)/(362)
+
+Score: 4436.0
+
+№1  MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPLAD
+       ...:|:.|.:..:|:....:..|.:|:..:|..|::.|.|:||.|..||..:.    
+№2  ---MIGELLATGVGAVLITLFGIIAGLFLMGIDRICAARMQMRQGPPLTQPFTDIR----
+№1  GIKLLTKESIIPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPVISDVNI
+      |||.|:|::|..|...::..|.:::.|.|:.:...:|.|....: |..: |:|::...
+№2  --KLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGSILPV-GTPL-PIIGEYGD
+№1  ALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVLLAGTL
+    .::..:.. .:...:::.:|:||.|.||.:|:.|....|||||..|:.:::::....:..
+№2  LILIMYLL-TVPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIAWRLAVA
+№1  STVGIVEAQ--IKSGVWYILYQPVA-----FLLYLFCMLA--ESGRVPFDIQEAEAELVT
+    :.|.....:  ....:|..: .|.:     .||.:...:.  |.:|:|.|..|||.||..
+№2  GLVMPFSVNTIAAHPIWTEV-GPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAETELCG
+№1  GYNVEYGGMRFGVFPLAEWYLNVMALSALAVILFFGGWSGP-----NIFGPFSPYLWFLI
+    |..|||:|...::|.|:.. ..:.|.::|||:|||....:|     .|.|.....|:||:
+№2  GLLVEYSGRNLALFSLSMA-AKLVAMAGLAVLLFFPWNLSPVLGLSGIMGAGVDLLFFLL
+№1  KTFSLVFFVL-WLHWTLPRFQARDITEIAWKVLLPLALANVVLTAVVLYVL---------
+    |...:.||.: .::....||...     ....|....|.::.|.:..|.:|         
+№2  KVIVVMFFSVSLVRVVMARFRIN-----TVVSLYWGWLTTIGLIGMFLIILDGSFLFGGC
+№1  --
+       
+№2  LS
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_003433200.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.25428572 (89)/(350)
+similarity: 0.44 (154)/(350)
+gap_percent: 0.12 (42)/(350)
+
+Score: 4410.0
+
+№1  MAQVSLDLIVTLIKVLLLLGILL--GLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPL
+     ..:...::.:|..:.:..|:|.  :.|.:..||:|||.:..|.|:||:      ..||:
+№2  -MELVKGILTQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGPH------WYQPV
+№1  ADGIKLLTKESIIPRGADR-PVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPVISD
+    ||.||||.||.::|..... ..:.:...::::..:.....:||..        |..|| .
+№2  ADFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFHS--------VESVI-N
+№1  VNIALIFIFAMGSLAVYGTIFSGWASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVLLA
+    .:..||.......:........||.|:|.|:.|||.|......|||:.|..:.|:..:||
+№2  FQGNLIAALYLLTIPTITFFLVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPAILA
+№1  GTLSTVGIVEAQIKSGVWYILYQPVAFLLYLF----CMLAESG---RVPFDIQEAEAELV
+    |......|       ::::.. :|:...:.:.    ..:|..|   ||||||..||.|:|
+№2  GSWNIADI-------ALFFSA-NPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAETEIV
+№1  TGYNVEYGGMRFGVFPLAEWYLNVMALSALAVILFFGGWSGPNIFGPFSPYLWFLIKTFS
+    .|...||:|..:|...|| .......::||...:|.||..|.   |..:.::.|::||.:
+№2  GGVFTEYSGRLYGFIQLA-IDMEMVVVAALMNSVFLGGSLGL---GGIAGFVLFIVKTLA
+№1  LVFFVLWLHWTLPRFQARDITEIAWKVLLPLALANVVLTAVVLYVL----
+     :||.:..::....|..........||.|.||:|.::::..:|..::    
+№2  IVFVLSLIKSLMARVRIEQMINFCWKYLAPLSLLQIIISIIVRSIVWPTL
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_004616654.1
+Sequence №2: >YP_844339.1
+
+identity: 0.35795453 (126)/(352)
+similarity: 0.55965906 (197)/(352)
+gap_percent: 0.07670455 (27)/(352)
+
+Score: 5444.0
+
+№1  MMVDIIELYNNPWLRGVLG-LVLIGVIFIGAMIAVWLERKISADVQYRIGPNRLGKFGIF
+        ......:.|:|.::| :::::...:.|...||||||:::.:|.|.||:.:|..|:.
+№2  ----MGHEGGTEWVRLIVGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLL
+№1  QLVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGAVIINDTVYPIVAA
+    |.:.|:|||..||.|.|...||.||:.||.:....|.:..:.:|||        ..::..
+№2  QTIMDGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFG--------PGLILR
+№1  EMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMITIISVAIM
+    :|.::||.|.:.|...:::|...:::|||||:|:||.|..:.:|:||:||.:|:.||.:|
+№2  DMNVGILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVLM
+№1  ANSLDIIEIVKVQDPMWFIILQPIGFFVFFVASMSEMGRLPFDQTEAEEELVAGWITEYT
+    .||....|||..|...|||.|||::..::.:.:::|:.|.|||..|||.|||||:.||||
+№2  VNSMRFSEIVAAQGRVWFIFLQPVAGLLYLICATAETNRAPFDIPEAESELVAGFHTEYT
+№1  GMRFGLGFFAEYIHMILGSFLIALLFLGGWNLPGLVPGILTSNLILGFIVPTVVLVAKAG
+    ||||||.|.|||..|.:...:...||.|||      .|.......|..:|..::   |..
+№2  GMRFGLFFLAEYTNMFIVTAVATSLFFGGW------HGPFGFDFGLPGVVWFLI---KTY
+№1  IVLMFIIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLVWAIALTLYMGV---
+     :::..|..:||..||.|.||:.|.|||.|.|:|::|||  :...:...:   
+№2  VLIFVIMWVRWTFPRIRFDQLMNFSWKFLIPVSLVNLV--VTAVVLKLIDLN
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_004616654.1
+Sequence №2: >YP_846061.1
+
+identity: 0.3782235 (132)/(349)
+similarity: 0.57593125 (201)/(349)
+gap_percent: 0.054441262 (19)/(349)
+
+Score: 5379.0
+
+№1  MMVDIIELYNNPWLRGVLGLVLIGVIFIGAMIAVWLERKISADVQYRIGPNRLGKFGIFQ
+        .:.......:......::::|:.:.|...||||||..|.:|.|.||||.||||:.|
+№2  ----MLNWTAGFLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPNRAGKFGLLQ
+№1  LVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGA-VIINDTVYPIVAA
+    .:||.:|...|||.:|..|:|.:|..||.|..|...|....||||. |.:..:..|:|.|
+№2  PIADIVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTLWGMKIPLVVA
+№1  EMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMITIISVAIM
+    :..:::||..|.|::::.|:...:::||.||||:|:.|..|.|::||:.|.:.|:.|..:
+№2  DLNVGLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVPVVMQ
+№1  ANSLDIIEIVKVQDPMWFIILQPIGFFVFFVASMSEMGRLPFDQTEAEEELVAGWITEYT
+    |.|..:::||..|:...||:.||::|.:|.:::|:|..|:|||..|||.||.||:.|||.
+№2  ARSFSLVDIVQAQEKYPFILTQPVAFAIFVISAMAEIKRIPFDLPEAENELGAGFHTEYS
+№1  GMRFGLGFFAEYIHMILGSFLIALLFLGGWNLPGLVPGILTSNLILGFIVPTVVLVAKAG
+    ||||||.|.:||:.|.:.:.|:|:||||||           ...:|   .|.|.|..|..
+№2  GMRFGLFFLGEYVNMQVLGGLVAVLFLGGW-----------HGPLL---PPVVWLFIKIV
+№1  IVLMFIIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLVWAIALTLYMGV
+     :|....|.:|..:||.|.||:..|:||.|.||:::|:....|..|:||.
+№2  LVALIMIWVRGTLPRLRYDQLMALGWKVLIPLALVNIMVTGAWVLWMGK
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_004616654.1
+Sequence №2: >YP_002667.1
+
+identity: 0.32777777 (118)/(360)
+similarity: 0.55 (198)/(360)
+gap_percent: 0.072222225 (26)/(360)
+
+Score: 5494.0
+
+№1  MMVDIIELYNNPWLRGVLGLVLIGVIFIGAMIAVWLERKISADVQYRIGPNRLGKFGIFQ
+          ..:|......:.:.:...::..:.......|||:::.:|.|.||||.|.:|:.|
+№2  ------MNWNEILFWLLKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQ
+№1  LVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGAVI-----IND----
+    .:||:||..|||::.|....::.::.||.:.|.........:|.|:.|     :::    
+№2  PLADGIKFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGL
+№1  TVYPIVAAEMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMI
+    |...:..|..|.:||::.|.|::::.||...:::|||||||:||.|..|.|::||:||..
+№2  TFLDLQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGM
+№1  TIISVAIMANSLDIIEIVKVQDPMWFIILQP--IGFFVFFVASMSEMGRLPFDQTEAEEE
+    .::|:.|.:.||.:.:|...|...|.|...|  |:|.:|.||..:|:.|||||..|||.|
+№2  SVVSIVILSGSLRLTDISASQVGLWNIFKLPGFIAFCLFVVAMFAETNRLPFDLAEAESE
+№1  LVAGWITEYTGMRFGLGFFAEYIHMILGSFLIALLFLGGWNLP-GLVPGILTSNLILGFI
+    ||.|:.|||.:.:|:|.|.|||..||..|.::.|||.||:::| |::.|.:. :.:.|.:
+№2  LVVGFHTEYGAFKFALFFIAEYMNMITMSCVVTLLFFGGYQVPFGILEGHVL-QPLFGLV
+№1  VPTVVLVAKAGIVLMFIIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLVWAIALTLYMGV
+        ..::|........:.:||.:||||.||:..|:||||.|.:::|::.|   .:|...
+№2  ----FFLGKVLFFTFLFLWVRWTLPRFRYDQLMSLGWKKLIPWAILNILIA---SIYIQF
+№1  
+     
+№2  
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_004616654.1
+Sequence №2: >YP_504007.1
+
+identity: 0.22580644 (84)/(372)
+similarity: 0.38978493 (145)/(372)
+gap_percent: 0.14247312 (53)/(372)
+
+Score: 4684.0
+
+№1  MMVDIIELYNNPWLRGVLGLVLIGVIFIGAMIAVWLERKISADVQYRIGPNRLGKFGIFQ
+           ........||.::::.....|::.....::|..:|..|.|.||      .:.|
+№2  -------MIGELLATGVGAVLITLFGIIAGLFLMGIDRICAARMQMRQGP------PLTQ
+№1  LVADAIKLFTKEDIIPNKADRILFVTAPMVMMASVFLMLVAIPFGAVIINDTVYPIVAAE
+    ...|..||..|:.::|..|...||..||.|..||....|..:|.|:::...|..||::..
+№2  PFTDIRKLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGSILPVGTPLPIIGEY
+№1  MDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMITIISVAIMA
+    .|:.:: ..... :..::....:::|...|:.:||.|....|::||.||.|.|:::|...
+№2  GDLILI-MYLLT-VPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIAWRL
+№1  NSLDIIEIVKVQ----DPMWFIILQPIG-----FFVFFVASMS--EMGRLPFDQTEAEEE
+    ....::....|:    .|.|..: .|.|     ..:..:|...  |.:|:|.|:.|||.|
+№2  AVAGLVMPFSVNTIAAHPIWTEV-GPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAETE
+№1  LVAGWITEYTGMRFGLGFFAEYIHMILGSFLIALLFLGGWNLPGLVPGILTSNLILGFIV
+    |.:|.:.||.|...:|...:...:.:..:.|..|||. .|||    ..:|....|.|..|
+№2  LCGGLLVEYSGRNLALFSLSMAAKLVAMAGLAVLLFF-PWNL----SPVLGLSGIMGAGV
+№1  PTVVLVAKAGIVLMF-IIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLVWAIALTLYMGV
+    ..:..:.|..:|..| :..:|....||||.        .:..|....|.....:..:..:
+№2  DLLFFLLKVIVVMFFSVSLVRVVMARFRIN--------TVVSLYWGWLTTIGLIGMFLII
+№1  ------------
+                 
+№2  LDGSFLFGGCLS
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_004616654.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.2638889 (95)/(360)
+similarity: 0.43333334 (156)/(360)
+gap_percent: 0.1388889 (50)/(360)
+
+Score: 4715.0
+
+№1  MMVDIIELYNNPWLRGVLGLVLIGVIFIGA--MIAVWLERKISADVQYRIGPNRLGKFGI
+         .||............|..|::|:::  ....|.:||:.|..|.|.||.      .
+№2  -----MELVKGILTQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGPH------W
+№1  FQLVADAIKLFTKEDIIPNKADRI-LFVTAPMVMMASVFLMLVAIPFGAVIINDTVYPIV
+    :|.|||.|||..||.::|.....: .|...|.|..:::..:.:.:||.:  :...:    
+№2  YQPVADFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFHS--VESVI----
+№1  AAEMDISILYIQAMSAISLIGIFMVAYGSNNKYSLIGAFRNFARMVGYEVPLMITIISVA
+      .....::.......|..|..|.|::.|:..||.||:.|......:||:|||...:|.|
+№2  --NFQGNLIAALYLLTIPTITFFLVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPA
+№1  IMANSLDIIEIVKVQDPMW-----FIILQPIGFFVFFVASMSEMGRLPFDQTEAEEELVA
+    |.|.|..|.:|.    ..:     ...::.||.||..:|.::...|:|||...||.|:|:
+№2  ILAGSWNIADIA----LFFSANPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAETEIVG
+№1  GWITEYTGMRFGLGFFAEYIHMILGSFLIALLFLGGWNLPGLVPGILTSNLILGFIVPTV
+    |..|||.|..:|....|....|::.:.|...:||||.             |.||.|...|
+№2  GVFTEYSGRLYGFIQLAIDMEMVVVAALMNSVFLGGS-------------LGLGGIAGFV
+№1  VLVAKAGIVLMFIIMLRWAVPRFRIDQVVNLSWKKLFPLSVINLVWAIALTLYMGV----
+    :.:.|...::..:..::....|.||:|.:|..||.|.|||:::::  |::.:...|    
+№2  LFIVKTLAIVFVLSLIKSLMARVRIEQMINFCWKYLAPLSLLQII--ISIIVRSIVWPTL
+№1  
+     
+№2  
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_844339.1
+Sequence №2: >YP_846061.1
+
+identity: 0.45722714 (155)/(339)
+similarity: 0.6224189 (211)/(339)
+gap_percent: 0.053097345 (18)/(339)
+
+Score: 5772.0
+
+№1  -MGHEGGTEWVRLIVGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLLQTI
+     ....:|  ::.||..|.|:||...|.|.:|||||||..:|:|:|.||:..|..||||.|
+№2  MLNWTAG--FLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPNRAGKFGLLQPI
+№1  MDGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFGPG---------LILRDM
+    .|.:|.|:||...|.:.:|.:|.|||.:|....|:.|.|:|||..         |::.|.
+№2  ADIVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTLWGMKIPLVVADL
+№1  NVGILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVLMVN
+    |||:|..|:.|...|.::..||||||.||:|||:||:.:|:::||:.|.|.:..||.:..
+№2  NVGLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVPVVMQAR
+№1  SMRFSEIVAAQGRVWFIFLQPVAGLLYLICATAETNRAPFDIPEAESELVAGFHTEYTGM
+    |....:||.||.:..||..||||..:::|.|:||..|.|||:||||.||.|||||||.||
+№2  SFSLVDIVQAQEKYPFILTQPVAFAIFVISAMAEIKRIPFDLPEAENELGAGFHTEYSGM
+№1  RFGLFFLAEYTNMFIVTAVATSLFFGGWHGPFGFDFGLPGVVWFLIKTYVLIFVIMWVRW
+    |||||||:||.||.::.::...||.||||||     .||.|||..||..::..:..|||.
+№2  RFGLFFLGEYVNMQVLGGLVAVLFLGGWHGP-----LLPPVVWLFIKIVLVALIMIWVRG
+№1  TFPRIRFDQLMNFSWKFLIPVSLVNLVVTAVVLKLIDLN
+     |.||:|:||||..:||.|||::|||:.||:..:..... 
+№2  TLPRLRYDQLMALGWKVLIPLALVNIMVTGAWVLWMGK-
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_844339.1
+Sequence №2: >YP_002667.1
+
+identity: 0.39093485 (138)/(353)
+similarity: 0.56657225 (200)/(353)
+gap_percent: 0.0878187 (31)/(353)
+
+Score: 5331.0
+
+№1  MGHEGGTEWVRLIVGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLLQTIM
+       ...:|.:..::...:..........:....||||||.||.|.||:..|..||||.:.
+№2  ---MNWNEILFWLLKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQPLA
+№1  DGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFG------------PGLILR
+    ||||.:.||.:.|..|.:..:::||.:..:..:.::.|:|.|            .||...
+№2  DGIKFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGLTFL
+№1  DM-----NVGILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVM
+    |.     ..|||.:|:.|...|.:|:.:||||||||:||||:||.:|:::||:||...|.
+№2  DLQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGMSVV
+№1  SVVLMVNSMRFSEIVAAQGRVWFIFLQP--VAGLLYLICATAETNRAPFDIPEAESELVA
+    |:|:...|.|..:|.|:|..:|.||..|  :|..|:::...|||||.|||:.|||||||.
+№2  SIVILSGSLRLTDISASQVGLWNIFKLPGFIAFCLFVVAMFAETNRLPFDLAEAESELVV
+№1  GFHTEYTGMRFGLFFLAEYTNMFIVTAVATSLFFGGWHGPF----GFDFG-LPGVVWFLI
+    ||||||.:.:|:|||:|||:||.....|.|.|||||:..||    |.... |.|:|:||.
+№2  GFHTEYGAFKFALFFIAEYMNMITMSCVVTLLFFGGYQVPFGILEGHVLQPLFGLVFFLG
+№1  KTYVLIFVIMWVRWTFPRIRFDQLMNFSWKFLIPVSLVNLVVTAVVLKLIDLN
+     |.....|:..|||||.||.|:||||..:||.|||.:::|:::.::.:..    
+№2  KVLFFTFLFLWVRWTLPRFRYDQLMSLGWKKLIPWAILNILIASIYIQF----
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_844339.1
+Sequence №2: >YP_504007.1
+
+identity: 0.26836157 (95)/(354)
+similarity: 0.42372882 (150)/(354)
+gap_percent: 0.10169491 (36)/(354)
+
+Score: 4461.0
+
+№1  MGHEGGTEWVRLIVGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLLQTIM
+        ...|.:...||.|:|..|:.:.:|||..::|..|:|.|.|.||      .|.|..:
+№2  ----MIGELLATGVGAVLITLFGIIAGLFLMGIDRICAARMQMRQGP------PLTQPFT
+№1  DGIKLVGKELITPRSVDRKLFILAPVLVFMPVLVGFLVLPFG-------PGLILRDMNVG
+    |..||:.|:.:.|......||..||::.|...:.....||.|       |..|:.:....
+№2  DIRKLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGSILPVGTPLPIIGEYGDL
+№1  ILLIFSFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVL------
+    ||:.: ..|...||.:|||:||...||.:||.|...:::|||.||.:.:.::..      
+№2  ILIMY-LLTVPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIAWRLAVAG
+№1  MVNSMRFSEIV--AAQGRVW-FIFLQPVAGLLYLICAT-AETNRAPFDIPEAESELVAGF
+    .|:......|.  .....|. ...:..:..|:.|...| ||..|.|.|.||||.||.:|.
+№2  LVMPFSVNTIAAHPIWTEVGPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAETELCGGL
+№1  HTEYTGMRFGLFFLAEYTNMFIVTAVATSLFF----GGWHGPFGFDFGLPGVVWFLIKTY
+    ..||.|...:||.|:.........::|..|||    :...|..|...:...:::||:|..
+№2  LVEYSGRNLALFSLSMAAKLVAMAGLAVLLFFPWNLSPVLGLSGIMGAGVDLLFFLLKVI
+№1  VLIFV-IMWVRWTFPRIRFDQLMNFSWKFLIPVSLVNLVVTAVVLKLIDLN---
+     |:.|. :..||....|.|..::....|.:|..::|:...:..:....:...   
+№2  VVMFFSVSLVRVVMARFRINTVVSLYWGWLTTIGLIGMFLIILDGSFLFGGCLS
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_844339.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.28023598 (95)/(339)
+similarity: 0.47492626 (161)/(339)
+gap_percent: 0.07964602 (27)/(339)
+
+Score: 4707.0
+
+№1  MGHEGGTEWVRLI-VGLVIILAFSQLNALFLVWLERKVAGRIQLRPGPMEVGPHGLLQTI
+    |....|. ...|. :::...|.|....:||..|.:||:.:..|.|.||      ...|.:
+№2  MELVKGI-LTQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGP------HWYQPV
+№1  MDGIKLVGKELITPRSVDR-KLFILAPVLVFMPVLVGFLVLPFGPGLILRDMNVGILLIF
+    .|.|||::||::.|..|.. |.|.:.|.:....::...|.:||.....:...:..::...
+№2  ADFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFHSVESVINFQGNLIAAL
+№1  SFSTFTVLAILAGGWASNNKYALLGAIRSVGQNVAYEIPLLLTVMSVVLMVNSMRFSEIV
+    ...|...:.....||.|:..|:.:|:.|.:.|..||||||.....|..:...|...::|.
+№2  YLLTIPTITFFLVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPAILAGSWNIADIA
+№1  AA-QGRVWFIFLQPVAGLLYLICATAETNRAPFDIPEAESELVAGFHTEYTGMRFGLFFL
+    .. .:.....|::.::..:.||..::...|.|||||.||.|:|:|..|||.|..:|...|
+№2  LFFSANPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAETEIVGGVFTEYSGRLYGFIQL
+№1  AEYTNMFIVTAVATSLFFGGWHGPFGFDFGLPGV---VWFLIKTYVLIFVIMWVRWTFPR
+    |..:.|.:|.|:.:|:|.||       ..||.|:   |.|::||..::||:..::....|
+№2  AIDMEMVVVAALMNSVFLGG-------SLGLGGIAGFVLFIVKTLAIVFVLSLIKSLMAR
+№1  IRFDQLMNFSWKFLIPVSLVNLVVT----AVVLKLIDLN
+     :|.:|..||.||:|.|:||:::::.    ::|...:   
+№2  VRIEQMINFCWKYLAPLSLLQIIISIIVRSIVWPTL---
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_846061.1
+Sequence №2: >YP_002667.1
+
+identity: 0.4131054 (145)/(351)
+similarity: 0.6039886 (212)/(351)
+gap_percent: 0.07122507 (25)/(351)
+
+Score: 5562.0
+
+№1  MLNWTAGFLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPNRAGKFGLLQPIAD
+     .||: ..|..:.|..:...:|:...||....|||..:.:|.|.||||||.:|||||:||
+№2  -MNWN-EILFWLLKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQPLAD
+№1  IVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTL--W-----GMK-IP
+    .:|.:.||:..|....:..:.:|||:....|:..::|:|.|..:.|  |     |.. :.
+№2  GIKFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGLTFLD
+№1  LVVADLNVGLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVP
+    |.:|....|:|:.||:|||:|||:.::|||||.||||||::|:.||||||||.||.::|.
+№2  LQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGMSVVS
+№1  VVMQARSFSLVDIVQAQEKYPFILTQP--VAFAIFVISAMAEIKRIPFDLPEAENELGAG
+    :|..:.|..|.||..:|.....|...|  :||.:||::..||..|:||||.|||.||..|
+№2  IVILSGSLRLTDISASQVGLWNIFKLPGFIAFCLFVVAMFAETNRLPFDLAEAESELVVG
+№1  FHTEYSGMRFGLFFLGEYVNMQVLGGLVAVLFLGGWHGPL-------LPP---VVWLFIK
+    |||||::.:|:|||::||.||...:.:|.:||.||:..|.       |.|   :|:...|
+№2  FHTEYGAFKFALFFIAEYMNMITMSCVVTLLFFGGYQVPFGILEGHVLQPLFGLVFFLGK
+№1  IVLVALIMIWVRGTLPRLRYDQLMALGWKVLIPLALVNIMVTGAWVLWMGK
+     ::....:.:|||.||||.||||||:||||.|||.|::||.:.:.::.:   
+№2  VLFFTFLFLWVRWTLPRFRYDQLMSLGWKKLIPWAILNILIASIYIQF---
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_846061.1
+Sequence №2: >YP_504007.1
+
+identity: 0.24507043 (87)/(355)
+similarity: 0.4225352 (150)/(355)
+gap_percent: 0.10140845 (36)/(355)
+
+Score: 4467.0
+
+№1  MLNWTAGFLVLIAKLTIVLAVLLLVAAYLVWLERKFLARLQIRYGPNRAGKFGLLQPIAD
+       ..:..|.......::....::.:.:|..::|...||.|.|.||      .|.||..|
+№2  ---MIGELLATGVGAVLITLFGIIAGLFLMGIDRICAARMQMRQGP------PLTQPFTD
+№1  IVKMVAKEDTVPEGAERTIFMLAPAVVAATALLVFAVIPFGKDVTLWGMKIPLVVADLNV
+    |.|.:.|:..||..|...:|:.||.|..|.|:.|...:|.|. :...|:.:|::.....:
+№2  IRKLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGS-ILPVGTPLPIIGEYGDL
+№1  GLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVPVVMQ---A
+    .|:.:..  .:...:...||:||.|.|:.:|:.|...:||:||..|::|||.:...   |
+№2  ILIMYLL--TVPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIAWRLAVA
+№1  RSFSLVDIVQAQEKYPFILTQPVA-----FAIFVISAMA--EIKRIPFDLPEAENELGAG
+    .......:.:...:..:....|.:     ..:.|::...  |:.|||.|.||||:||.:|
+№2  GLVMPFSVNTIAAHPIWTEVGPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAETELCGG
+№1  FHTEYSGMRFGLFFLGEYVNMQVLGGLVAVLFLG-------GWHGPLLPPV--VWLFIKI
+    ...||||...:||.|:........:||..:||..       |..|.....|  ::..:|:
+№2  LLVEYSGRNLALFSLSMAAKLVAMAGLAVLLFFPWNLSPVLGLSGIMGAGVDLLFFLLKV
+№1  VLVALIMI-WVRGTLPRLRYDQLMALGWKVLIPLALVNI-MVTGAWVLWMGK---
+     ::|....: .||....|.|..::.:|.|..|..::|:.. .:........|.   
+№2  IVVMFFSVSLVRVVMARFRINTVVSLYWGWLTTIGLIGMFLIILDGSFLFGGCLS
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_846061.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.25872093 (89)/(344)
+similarity: 0.4360465 (150)/(344)
+gap_percent: 0.10174418 (35)/(344)
+
+Score: 4487.0
+
+№1  MLNWTAGFLVLIAKLTIVLAVLLLVA--AYLVWLERKFLARLQIRYGPNRAGKFGLLQPI
+     .....|.|..:..:.:..::|.|.:  .:..|.:||..|..|.|.||.      ..||:
+№2  -MELVKGILTQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGPH------WYQPV
+№1  ADIVKMVAKEDTVPEGAER-TIFMLAPAVVAATALLVFAVIPFGKDVTLWGMKIPLVVAD
+    ||.:|.::||..||..... ..|.:.|.|..:..:.....:||.....:......|    
+№2  ADFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFHSVESVINFQGNL----
+№1  LNVGLLYFFALSSLGVYGVALGGWASNSKYSLLGGIRGAAQMISYELSLGLAIVPVVMQA
+      ::.||...:..:..:   |.||.|:|.||.:|:.|...|..:||:.|..|.:.....|
+№2  --IAALYLLTIPTITFF---LVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPAILA
+№1  RSFSLVDIVQAQEKYPFILTQPVAFAI----FVISAMAE---IKRIPFDLPEAENELGAG
+    .|:.:.||      ..|...:|:...:    ..:|..|.   :.|:|||:|.||:|:.:|
+№2  GSWNIADI------ALFFSANPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAETEIVGG
+№1  FHTEYSGMRFGLFFLGEYVNMQVLGGLVAVLFLGGWHGPLLPPVVWLF-IKIVLVALIMI
+    ..|||||..:|...|:....|.|:::|...:||||..|........|| :|.:.:..:..
+№2  VFTEYSGRLYGFIQLAIDMEMVVVAALMNSVFLGGSLGLGGIAGFVLFIVKTLAIVFVLS
+№1  WVRGTLPRLRYDQLMALGWKVLIPLALVNIMVTGAW--VLWMGK
+     .:::...|:|.:|.....||.|.||:|::|.:....  ::|...
+№2  LIKSLMARVRIEQMINFCWKYLAPLSLLQIIISIIVRSIVWPTL
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_002667.1
+Sequence №2: >YP_504007.1
+
+identity: 0.24184783 (89)/(368)
+similarity: 0.43206522 (159)/(368)
+gap_percent: 0.12771739 (47)/(368)
+
+Score: 4568.0
+
+№1  MNWNEILFWLLKSGLFFFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQPLADGI
+     :..|:|...:.:.|.....|.|..:.:..:|..|:..|.|.||      .|.||..|..
+№2  -MIGELLATGVGAVLITLFGIIAGLFLMGIDRICAARMQMRQGP------PLTQPFTDIR
+№1  KFLTKEEVFPVQVNKVMYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGLTFLDLQ
+    |.|.|:.|.|.:.....:..||.::...|::....:|||:.:|:      .|.|..:.  
+№2  KLLCKDSVVPANAIPSLFNAAPIVAFASAVTVLFYLPLGSILPV------GTPLPIIG--
+№1  IANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGMSVVSI-
+     ...|..::....  .:...:.:.:|:||...|:.:||.|.:.:||:||.||:.::|:| 
+№2  -EYGDLILIMYLL--TVPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIA
+№1  --VILSGSLRLTDI-SASQVGLWNIFKLPGFIAFCLFVV--AMFA--ETNRLPFDLAEAE
+      :.::|.:....: ..:...:|:.....|.|:..|.::  |...  |..|:|.|..|||
+№2  WRLAVAGLVMPFSVNTIAAHPIWTEVGPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAE
+№1  SELVVGFHTEYGAFKFALFFIAEYMNMITMSCVVTLLFFGGYQVPFGILEGHVLQPLFGL
+    .||..|...||::...|||.::.....:.|:.:..||||.....|...|.| :......|
+№2  TELCGGLLVEYSGRNLALFSLSMAAKLVAMAGLAVLLFFPWNLSPVLGLSG-IMGAGVDL
+№1  VFFLGKVLFFTFLFL-WVRWTLPRFRYDQLMSLGWKKLIPWAILNIL-IASIYIQF----
+    :|||.||:..:|..: .||....|||..::.|      :.|:.|:.: :.:.::..    
+№2  LFFLLKVIVVMFFSVSLVRVVMARFRINTVVS------LYWGWLTTIGLIGMFLIILDGS
+№1  --------
+             
+№2  FLFGGCLS
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_002667.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.24581006 (88)/(358)
+similarity: 0.4273743 (153)/(358)
+gap_percent: 0.13407822 (48)/(358)
+
+Score: 4543.0
+
+№1  MNWNE-ILFWLLKSGLF--FFILITACAYYTLAERKVAGFIQDRKGPNRAGFWGLLQPLA
+    |.... ||..|...:::  ...|.....:....:||:.:..|.|.||.      ..||:|
+№2  MELVKGILTQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGPH------WYQPVA
+№1  DGIKFLTKEEVFPVQVNKV-MYLIAPAISMTCAIMAWSVVPLGGQIPLPSWLQEKTGLTF
+    |.||.|.||.|.|.:|:.| |:.:.|.::....::....||..:.        |      
+№2  DFIKLLSKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFHSV--------E------
+№1  LDLQIANPDTGILFLFAISSLAVYGIIIAGWASNNKYSLLGAVRSTAQMISYELPLGMSV
+       .:.|....::....:..:......:.||.|:..||.:|:.|...|..:||:||.::.
+№2  ---SVINFQGNLIAALYLLTIPTITFFLVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAM
+№1  VSIVILSGSLRLTDISASQVGLW--N-IFKLPGFIAFCLFVVAMFAETNRLPFDLAEAES
+    :|..||:||..:.||    ...:  | :......|:..:.::|..:...|:|||:..||.
+№2  LSPAILAGSWNIADI----ALFFSANPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAET
+№1  ELVVGFHTEYGAFKFALFFIAEYMNMITMSCVVTLLFFGGYQVPFGILEGHVLQPLFGLV
+    |:|.|..|||::..::...:|..|.|:..:.:.:.:|.||   ..|:      ..:.|.|
+№2  EIVGGVFTEYSGRLYGFIQLAIDMEMVVVAALMNSVFLGG---SLGL------GGIAGFV
+№1  FFLGKVLFFTFLFLWVRWTLPRFRYDQLMSLGWKKLIPWAILNILIASIYIQF-----
+     .|:.|.|...|:...::....|.|.:|.....||.|.|.::|:|:|:.|....     
+№2  LFIVKTLAIVFVLSLIKSLMARVRIEQMINFCWKYLAPLSLLQIIISIIVRSIVWPTL
+#####################################################################################
+#####################################################################################
+
+Sequence №1: >YP_504007.1
+Sequence №2: >YP_001876018.1
+
+identity: 0.28735632 (100)/(348)
+similarity: 0.45689654 (159)/(348)
+gap_percent: 0.08908046 (31)/(348)
+
+Score: 4809.0
+
+№1  --MIGELLATGVGAVLITLFGIIA--GLFLMGIDRICAARMQMRQGPPLTQPFTDIRKLL
+      .:..:|.:.....:......:|  |||....||...|.||:||||...||..|..|||
+№2  MELVKGILTQLFYIAVYPGLLFLASYGLFCEWFDRKLYAQMQNRQGPHWYQPVADFIKLL
+№1  CKDSVVPANA-IPSLFNAAPIVAFASAVTVLFYLPLGSILPVGTPLPIIGEYGDLILIMY
+    .|:.|||:|. ....|...|.||.::.||....:|..|:.      .:|...|.||...|
+№2  SKEVVVPSNVTMVKMFKVLPFVAISAIVTTALMVPFHSVE------SVINFQGNLIAALY
+№1  LLTVPALAMVAGGFASGSPYASVGAQREMVTMIAYEFPLAIAIVAIAWRLAVAGLVMPFS
+    |||:|.:.....|:.|.|||:::|::|...:..|||.||..|.::.|   .:||..:...
+№2  LLTIPTITFFLVGWTSQSPYSAIGSMRVLTQLFAYEIPLMTAMLSPA---ILAGSWNIAD
+№1  VNTIAAHPIWTEVGPAGIIGCILLLIVLAWVTPAELSRIPCDTPEAETELCGGLLVEYSG
+    :      .::....|......|:.|.|......:.|.|:|.|.|.||||:.||:..||||
+№2  I------ALFFSANPLLMFVNIIGLFVSLIALQGKLERVPFDIPHAETEIVGGVFTEYSG
+№1  RNLALFSLSMAAKLVAMAGLAVLLFFPWNLSPVLGLSGIMGAGVDLLFFLLKVIVVMFFS
+    |..:...|:.....|..|:|...:|....|:        .|:....:.|::|.:.:.|. 
+№2  RLYGFIQLAIDMEMVVVAALMNSVFLGGSLG--------LGGIAGFVLFIVKTLAIVFV-
+№1  VSLVRVVMARFRINTVVSLYWGWLTTIGLIGMFLIILDGSFLFGGCLS
+     :||::.:|||.||.:.:...|.:|..::|:...:.|:..|.::...  
+№2  LSLIKSLMARVRIEQMINFCWKYLAPLSLLQIIISIIVRSIVWPTL--
+#####################################################################################
+

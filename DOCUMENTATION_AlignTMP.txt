@@ -1,0 +1,167 @@
+AlignTMP (version 0.2, 2017) DOCUMENTATION
+====================================
+
+#1 - Program Description
+====================================
+
+This is the multiple sequence alignment (MSA) program, 
+which is developed for alignment of transmembrane proteins,
+however, it can be used for alignment of standard soluble proteins.
+
+(PLEASE NOTE THAT IT IS THE TEST VERSION OF THE PROGRAM, WHICH IS NOT OPTIMIZED YET)
+
+#2 - Program requirements
+====================================
+
+Firstly, you need jdk and jre to be installed on your system (version not lower than 8).
+They should be written in your PATH and CLASSPATH variables (an example below, on Windows system):
+
+"set class = 'C:\Program Files\Java\jdk1.8.0_111\bin';"
+"set classpath = 'C:\Program Files\Java\jdk1.8.0_111\lib\rt.jar';"
+ 
+You also need python (version 3) with pandas and matplotlyb packages. Note that python
+also should be written in your PATH variable. 
+
+#3 - Launch the program
+====================================
+
+To run the program in command line type:
+
+"java -jar (full path to jar file)AlignTMP.jar"
+
+If the full path to AlignTMP.jar is written in PATH variable, you can ommit the
+full path (the same, if your working directory contains AlignTMP.jar).
+
+(Note that if you want graphs to be built, script "plot_csv.py" should be located in the
+same folder with AlignTMP.jar (will be changed in next version)). 
+
+#4 - Running the program
+====================================
+
+1 -  After launch you will be asked to provide file with
+     sequences, which should be aligned:
+    
+     "Enter full path to file with sequences: "
+ 
+     Note that it is better to write the full path to your file, so
+     that the program will find it without any problem. Or it can stop
+     with IOException.
+     Also note that you should provide file in FASTA format, other formats are not
+     supported yet. It means that your file should contain list of sequences,
+     ID is denoted by line, which starts with ">" and the sequence starts from the
+     next line.
+     Example:
+	
+	>YP_003432080.1
+	MENIVASLIIVGIKILVLLAIVLGLGAYLTLVERKVAAHIQRRPGPMVVGWHGLLQPLADGLKLLTKEDL
+	FPRYGNKFLYNLAIVMALVPASLVFAVIPFGPEFEVFGIRVKPILTDVNVGLLLFFALGSLAVYAIALAG
+	WASNSKYALIGSMRKAGIVISYEVVITFAAMGPIILAQSLSTYSIVQNQIDQKLWYIWLQPVAFVVYMFA
+	MLAETGRVPFDVQEAEAELVTGFTVEYGGMKFGLFPLVEWYVETLSLSAIGVILFLGGWSSINIPFVGFF
+	DPLFFLGPLSPFVWFLLKVGLVFLFVLWLHWTLPRYRIDQITSTAWKVMLPLTFVNLVFTALIAPLVWK
+
+	>YP_003433200.1
+	MAQVSLDLIVTLIKVLLLLGILLGLGAYLTWFERKLAGHIQARMGPKLVGPFGLLQPLADGIKLLTKESI
+	IPRGADRPVYYLAIVLSLAPALLLFSVIPFGPGFNLFGYEVKPVISDVNIALIFIFAMGSLAVYGTIFSG
+	WASNSKYAFIGSLRKSAVMIAYEVILGFSVLGVVLLAGTLSTVGIVEAQIKSGVWYILYQPVAFLLYLFC
+	MLAESGRVPFDIQEAEAELVTGYNVEYGGMRFGVFPLAEWYLNVMALSALAVILFFGGWSGPNIFGPFSP
+	YLWFLIKTFSLVFFVLWLHWTLPRFQARDITEIAWKVLLPLALANVVLTAVVLYVL
+
+     Also your sequences should contain only amino acid labels:
+
+     "acdefghiklmnpqrstvwyACDEFGHIKLMNPQRSTVWY"
+
+     Your file should not contain gap labels or program will fail to calculate
+     probs for residues or Viterbi path (will be fixed in next version).
+     File should not contain sequences with the same ID. In this case, they will
+     be deleted (so only one sequence with the unique ID will remain).     
+ 
+2 -  Secondly, you will be asked to provide the name of
+     the output file for results:
+    
+     "Enter full path to outputfile: "
+ 
+     It is also better to write the full path to the desired folder, or
+     program will put this file to its home directory.
+
+3 -  Next step, you have to choose, which cost function you want to use.
+     AlignTMP uses TMHMM for building MSA. It can use TMHMM in two ways:
+     predict membrane segments (if sequences have them) using Viterbi
+     or forward-backward algorithm:
+    
+     "Use probabilities (P) or Viterbi (V) cost function? (P/V): "
+ 
+     Different approaches can give different results, so it might be 
+     interesting to compare the results of different cost functions on your data.
+
+     #a - If you chose P on the previous step, program will ask you, what particularly 
+          probability cost function you want to use:
+   
+          "Use summation cost function (S) or based on Pfam statistics (P)? (S/P): " 
+
+	  Summation cost function - use weighted sum of elements from different 
+          substitution matrices (BLOSUM62 - for soluble regions, PHAT - for membrane regions):
+
+	  S(a,b)=p(a)Sl * p(b)Sl * BLOSUM(a,b) + p(a)T * p(b)T * PHAT(a,b) + p(a)Sl * p(b)T * const + p(a)T * p(b)Sl * const
+
+          where p(a)Sl - probability of the residue "a" to be in soluble region, p(a)T - in membrane region.
+          
+          Cost function, based on Pfam statistics, is the simple cost function that uses new substitution matrices,
+          which are based on alignments from Pfam domains with aligned membrane regions:
+
+          S(a,b) = S(a,b,Ta,Tb) = log (P(a,b,Ta,Tb))/(P(a,Ta )P(b,Tb))
+
+          where Ta and Tb are probabilities of residues "a" and "b" to be in the membrane regions.
+
+4 - Next step, you can choose default gap penalties or type them (provide your own):
+    
+     "Choose gap penalties (Y) or run with the default (D)? (Y/D): "
+
+    Note that default gap penalties are different for different cost functions.
+    If you choose to type your own gap penalties ("Y"), you will have to type them
+    step by step:
+
+    "Type all numbers with minus!"
+    "Type soluble gap open penalty: "
+    "Type soluble gap extension penalty: "
+    "Type membrane gap open penalty: "
+    "Type membrane gap extension penalty: " 
+
+5 -  Then, the program will ask you, would you like to run the program with
+     iterative refinement or not?:
+  
+     "Run the refinement procedure (Y) or not (N)? (Y/N): "
+
+     Note, that due to not full optimization refinement stage may take quite a long
+     time, escpecially if your input file contains more than 40 sequences.
+
+After all these steps the program will give you information about its work on standard output:
+
+CALCULATING PROBABILITIES (if probabilities cost function is used; VITERBI PATHS - in case of Viterbi).
+CALCULATING ALL-WITH-ALL PAIRWISE ALIGNMENT (stage of progressive alignment, calculating pairwise alignments for distance matrix)
+PERFORMING UPGMA CLUSTERIZATION (using distance matrix for UPGMA clusterization)
+PERFORMING ALIGNMENT BY GUIDE TREE (the resulting tree is used for multiple sequence alignment)
+PERFORM REFINEMENT (if you have chosen to perform refinement, program will show you the stages of this process; "Accepted new variant" - if new msa is better than previous one)
+
+#5 - Program output
+====================================
+
+For example, you provided the output name of file: "aligned_set.fasta"
+
+Then, the output will look like this:
+
+"aligned_set.fasta" - the resulting file with aligned sequences
+"aligned_set_REFINED.fasta" - the resulting file with refined alignment (if you chose to perform refinement procedure)
+"csv_files" - the folder with csv file for every sequence with probabilities (to be in soluble or membrane region), calculated for every residue (only if you chose probability cost function)
+"probs_graphs" - the folder with png pictures for every sequence; each picture contains graph of residues probabilities (be soluble or membrane), based on csv files
+"pairwise_sequence_alignments.txt" - this file contains all-with-all pairwise alignments, which were built for distance matrix 
+"distance_matrix.txt" - the file with distance matrix for first UPGMA clusterization
+
+#6 - Author info
+====================================
+
+Novakovsky German, student of the 6th year, School of Bioengineering and Bioinformatics, MSU named after M.V. Lomonosov.
+
+For any information or complaints (bugs and e.t.c.)  please contact "g.e.novakovsky@gmail.com"
+
+All open code is located:
+"https://bitbucket.org/fransilvion/tm_newversion/src"  

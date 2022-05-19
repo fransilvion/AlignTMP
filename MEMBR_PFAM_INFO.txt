@@ -1,0 +1,499 @@
+ACCESSION	DESCRIPTION	NUM. OF. SEQS	NUM. OF UNIQ. IDS
+PF00001	7 transmembrane receptor (rhodopsin family)	32683	31901
+PF00002	7 transmembrane receptor (Secretin family)	5255	5071
+PF00003	7 transmembrane sweet-taste receptor of 3 GCPR	4789	4737
+PF00027	Cyclic nucleotide-binding domain	31163	27749
+PF00029	Connexin	1506	1390
+PF00032	Cytochrome b(C-terminal)/b6/petD	2070	2050
+PF00033	Cytochrome b/b6/petB	2199	2194
+PF00060	Ligand-gated ion channel	4795	4633
+PF00064	Neuraminidase	6	6
+PF00067	Cytochrome P450	72738	66820
+PF00083	Sugar (and other) transporter	44953	40715
+PF00115	Cytochrome C and Quinol oxidase polypeptide I	7470	7432
+PF00119	ATP synthase A chain	4125	4112
+PF00122	E1-E2 ATPase	35143	33974
+PF00124	Photosynthetic reaction centre protein	871	852
+PF00137	ATP synthase subunit C	10663	8126
+PF00146	NADH dehydrogenase	3809	3740
+PF00153	Mitochondrial carrier protein	70281	26045
+PF00201	UDP-glucoronosyl and UDP-glucosyl transferase	15665	15026
+PF00209	Sodium:neurotransmitter symporter family	10793	7190
+PF00223	Photosystem I psaA/psaB protein	605	533
+PF00230	Major intrinsic protein	9774	9422
+PF00267	Gram-negative porin	407	407
+PF00283	Cytochrome b559, alpha (gene psbE) and beta (gene psbF)subunits	347	343
+PF00285	Citrate synthase, C-terminal domain	8274	8024
+PF00287	Sodium / potassium ATPase beta chain	838	789
+PF00288	GHMP kinases N terminal domain	13487	13474
+PF00335	Tetraspanin family	6278	6125
+PF00344	SecY translocase	5973	5945
+PF00348	Polyprenyl synthetase	12345	12213
+PF00361	Proton-conducting membrane transporter	16216	15997
+PF00375	Sodium:dicarboxylate symporter family	8360	8206
+PF00421	Photosystem II protein	796	696
+PF00423	Haemagglutinin-neuraminidase	7	7
+PF00429	ENV polyprotein (coat polyprotein)	186	178
+PF00430	ATP synthase B/B' CF(0)	4617	4615
+PF00474	Sodium:solute symporter family	14505	13016
+PF00482	Type II secretion system (T2SS), protein F	15250	10328
+PF00494	Squalene/phytoene synthase	4660	4626
+PF00497	Bacterial extracellular solute-binding proteins, family 3	25241	24259
+PF00499	NADH-ubiquinone/plastoquinone oxidoreductase chain 6	3089	3088
+PF00501	AMP-binding enzyme	81865	71767
+PF00504	Chlorophyll A-B binding protein	2950	2877
+PF00507	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3	2964	2961
+PF00509	Haemagglutinin	7	7
+PF00510	Cytochrome c oxidase subunit III	4888	4586
+PF00517	Retroviral envelope protein	39	39
+PF00520	Ion transport protein	27121	18853
+PF00523	Fusion glycoprotein F0	10	10
+PF00528	Binding-protein-dependent transport system inner membrane component	152803	148550
+PF00529	HlyD membrane-fusion protein of T1SS	1155	1155
+PF00549	CoA-ligase	8812	8698
+PF00556	Antenna complex alpha/beta subunit	482	482
+PF00558	Vpu protein	5	5
+PF00566	Rab-GTPase-TBC domain	12282	11802
+PF00571	CBS domain	80613	44147
+PF00584	SecE/Sec61-gamma subunits of protein translocation complex	4800	4800
+PF00593	TonB dependent receptor	39322	39206
+PF00599	Influenza Matrix protein (M2)	2	2
+PF00654	Voltage gated chloride channel	7472	7273
+PF00662	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus	5452	5445
+PF00664	ABC transporter transmembrane region	60110	49602
+PF00672	HAMP domain	31960	31793
+PF00689	Cation transporting ATPase, C-terminus	11215	11095
+PF00690	Cation transporter/ATPase, N-terminus	12168	12148
+PF00732	GMC oxidoreductase	14602	14086
+PF00737	Photosystem II 10 kDa phosphoprotein	186	186
+PF00746	LPXTG cell wall anchor motif	2335	2333
+PF00771	FHIPEP family	2381	2346
+PF00796	Photosystem I reaction centre subunit VIII	116	116
+PF00798	Arenavirus glycoprotein	3	3
+PF00822	PMP-22/EMP/MP20/Claudin family	2574	2534
+PF00837	Iodothyronine deiodinase	373	342
+PF00854	POT family	10036	8464
+PF00858	Amiloride-sensitive sodium channel	3478	3093
+PF00860	Permease family	11013	10573
+PF00864	ATP P2X receptor	714	588
+PF00869	Flavivirus glycoprotein, central and dimerisation domains	4	4
+PF00873	AcrB/AcrD/AcrF family	20689	18788
+PF00876	Innexin	831	743
+PF00878	Cation-independent mannose-6-phosphate receptor repeat	1479	207
+PF00881	Nitroreductase family	17476	15305
+PF00884	Sulfatase	18329	17916
+PF00892	EamA-like transporter family	67411	38772
+PF00893	Small Multidrug Resistance protein	4931	4930
+PF00899	ThiF family	14782	13685
+PF00902	Sec-independent protein translocase protein (TatC)	3466	3425
+PF00909	Ammonium Transporter Family	7683	7479
+PF00916	Sulfate permease family	11326	9821
+PF00924	Mechanosensitive ion channel	13238	13210
+PF00939	Sodium:sulfate symporter transmembrane region	4341	4239
+PF00943	Alphavirus E2 glycoprotein	3	3
+PF00948	Flavivirus non-structural Protein NS1	3	3
+PF00953	Glycosyl transferase family 4	8551	8537
+PF00955	HCO3- transporter family	3646	2163
+PF00957	Synaptobrevin	3951	3934
+PF00974	Rhabdovirus spike glycoprotein	16	15
+PF00999	Sodium/hydrogen exchanger family	19697	19289
+PF01001	Hepatitis C virus non-structural protein NS4b	2	2
+PF01002	Flavivirus non-structural protein NS2B	3	3
+PF01003	Flavivirus capsid protein C	3	3
+PF01004	Flavivirus envelope glycoprotein M	4	4
+PF01005	Flavivirus non-structural protein NS2A	3	3
+PF01006	Hepatitis C virus non-structural protein NS4a	3	3
+PF01007	Inward rectifier potassium channel	1868	1742
+PF01032	FecCD transport family	12597	12121
+PF01034	Syndecan domain	585	585
+PF01036	Bacteriorhodopsin-like protein	869	857
+PF01040	UbiA prenyltransferase family	12709	12645
+PF01059	NADH-ubiquinone oxidoreductase chain 4, amino terminus	753	753
+PF01061	ABC-2 type transporter	26372	22525
+PF01062	Bestrophin, RFP-TM, chloride channel	3900	3400
+PF01066	CDP-alcohol phosphatidyltransferase	13722	13708
+PF01080	Presenilin	780	596
+PF01098	Cell cycle protein	10351	9790
+PF01103	Surface antigen	6445	6434
+PF01105	emp24/gp25L/p24 family/GOLD	3876	3836
+PF01124	MAPEG family	3715	3701
+PF01127	Succinate dehydrogenase/Fumarate reductase transmembrane subunit	4851	4837
+PF01130	CD36 family	1464	1308
+PF01219	Prokaryotic diacylglycerol kinase	2481	2481
+PF01222	Ergosterol biosynthesis ERG4/ERG24 family	1557	1484
+PF01225	Mur ligase family, catalytic domain	12618	12569
+PF01226	Formate/nitrite transporter	2489	2477
+PF01241	Photosystem I psaG / psaK	289	289
+PF01252	Signal peptidase (SPase) II	4178	4177
+PF01266	FAD dependent oxidoreductase	43852	43559
+PF01275	Myelin proteolipid protein (PLP or lipophilin)	433	420
+PF01278	Omptin family	119	117
+PF01284	Membrane-associating domain	2927	2819
+PF01292	Prokaryotic cytochrome b561	5477	5474
+PF01299	Lysosome-associated membrane glycoprotein (Lamp)	545	516
+PF01312	FlhB HrpN YscU SpaS Family	3318	3317
+PF01333	Apocytochrome F, C-terminal	208	208
+PF01349	Flavivirus non-structural protein NS4B	3	3
+PF01350	Flavivirus non-structural protein NS4A	3	3
+PF01389	OmpA-like transmembrane domain	399	398
+PF01405	Photosystem II reaction centre T protein	129	129
+PF01435	Peptidase family M48	12555	12335
+PF01496	V-type ATPase 116kDa subunit family	3267	2491
+PF01510	N-acetylmuramoyl-L-alanine amidase	5533	5461
+PF01529	DHHC palmitoyltransferase	7782	7755
+PF01534	Frizzled/Smoothened family membrane region	1487	1370
+PF01538	Hepatitis C virus non-structural protein NS2	2	2
+PF01539	Hepatitis C virus envelope glycoprotein E1	1	1
+PF01542	Hepatitis C virus core protein	1	1
+PF01544	CorA-like Mg2+ transporter protein	8671	8492
+PF01545	Cation efflux family	14603	14505
+PF01554	MatE	37570	19860
+PF01560	Hepatitis C virus non-structural protein E2/NS1	1	1
+PF01561	Hantavirus glycoprotein G2	1	1
+PF01566	Natural resistance-associated macrophage protein	5083	4819
+PF01567	Hantavirus glycoprotein G1	1	1
+PF01569	PAP2 superfamily	14355	14303
+PF01589	Alphavirus E1 glycoprotein	3	3
+PF01595	Domain of unknown function DUF21	9973	9967
+PF01601	Coronavirus S2 glycoprotein	6	6
+PF01618	MotA/TolQ/ExbB proton channel family	9530	9530
+PF01635	Coronavirus M matrix/glycoprotein	8	8
+PF01658	Myo-inositol-1-phosphate synthase	1772	1768
+PF01679	Proteolipid membrane potential modulator	2238	2231
+PF01694	Rhomboid family	10105	10011
+PF01699	Sodium/calcium exchanger protein	16794	9057
+PF01701	Photosystem I reaction centre subunit IX / PsaJ	155	155
+PF01737	YCF9	171	171
+PF01741	Large-conductance mechanosensitive channel, MscL	3287	3286
+PF01758	Sodium Bile acid symporter family	5509	5487
+PF01764	Lipase (class 3)	7969	7898
+PF01769	Divalent cation transporter	4734	4156
+PF01773	Na+ dependent nucleoside transporter N-terminus	2229	2226
+PF01788	PsbJ	155	155
+PF01790	Prolipoprotein diacylglyceryl transferase	4709	4685
+PF01794	Ferric reductase like transmembrane component	7011	7003
+PF01823	MAC/Perforin domain	1845	1815
+PF01891	Cobalt uptake substrate-specific transmembrane region	1742	1741
+PF01917	Archaebacterial flagellin	452	438
+PF01925	Sulfite exporter TauE/SafE	14630	13949
+PF01956	Integral membrane protein DUF106	1203	1192
+PF01957	NfeD-like C-terminal, partner-binding	3738	3732
+PF01974	tRNA intron endonuclease, catalytic C-terminal domain	1445	1402
+PF01997	Translin family	1147	1128
+PF02028	BCCT, betaine/carnitine/choline family transporter	3347	3333
+PF02038	ATP1G1/PLM/MAT8 family	179	165
+PF02046	Cytochrome c oxidase subunit VIa	573	572
+PF02060	Slow voltage-gated potassium channel	223	223
+PF02064	MAS20 protein import receptor	569	561
+PF02096	60Kd inner membrane protein	6219	6206
+PF02116	Fungal pheromone mating factor STE2 GPCR	188	187
+PF02153	Prephenate dehydrogenase	4421	4389
+PF02157	Mannose-6-phosphate receptor	138	136
+PF02158	Neuregulin family	196	191
+PF02163	Peptidase family M50	7869	7585
+PF02167	Cytochrome C1 family	1993	1904
+PF02203	Tar ligand binding domain homologue	915	913
+PF02253	Phospholipase A1	689	679
+PF02264	LamB porin	492	492
+PF02285	Cytochrome oxidase c subunit VIII	89	89
+PF02300	Fumarate reductase subunit C	198	198
+PF02313	Fumarate reductase subunit D	200	200
+PF02321	Outer membrane efflux protein	33407	17439
+PF02355	Protein export membrane protein	8140	7024
+PF02378	Phosphotransferase system, EIIC	9203	9187
+PF02386	Cation transport protein	6322	5704
+PF02404	Stem cell factor	76	74
+PF02416	mttA/Hcf106 family	5274	5273
+PF02419	PsbL protein	119	119
+PF02430	Apical membrane antigen 1	72	58
+PF02453	Reticulon	1805	1796
+PF02460	Patched family	4423	3493
+PF02461	Ammonia monooxygenase	44	44
+PF02466	Tim17/Tim22/Tim23/Pmp24 family	3576	3570
+PF02472	Biopolymer transport protein ExbD/TolR	7445	7443
+PF02480	Alphaherpesvirus glycoprotein E	27	27
+PF02508	Rnf-Nqr subunit, membrane protein	4018	4013
+PF02516	Oligosaccharyl transferase STT3 subunit	1426	1350
+PF02517	CAAX protease self-immunity	10622	10611
+PF02529	Cytochrome B6-F complex subunit 5	143	143
+PF02532	Photosystem II reaction centre I protein (PSII 4.8 kDa protein)	133	133
+PF02533	Photosystem II 4 kDa reaction centre component	163	163
+PF02535	ZIP Zinc transporter	9663	8589
+PF02537	CrcB-like protein, Camphor Resistance (CrcB)	4114	3712
+PF02544	3-oxo-5-alpha-steroid 4-dehydrogenase	2087	2010
+PF02588	Uncharacterised 5xTM membrane BCR, YitT family COG1284	4890	4887
+PF02600	Disulfide bond formation protein DsbB	1967	1967
+PF02605	Photosystem I reaction centre subunit XI	237	237
+PF02628	Cytochrome oxidase assembly protein	3400	3016
+PF02630	SCO1/SenC	4163	4140
+PF02656	Domain of unknown function (DUF202)	3220	3214
+PF02665	Nitrate reductase gamma subunit	1174	1173
+PF02674	Colicin V production protein	3440	3369
+PF02683	Cytochrome C biogenesis protein transmembrane region	5301	5216
+PF02687	FtsX-like permease family	29158	24636
+PF02699	Preprotein translocase subunit	3678	3678
+PF02706	Chain length determinant protein	4534	4534
+PF02723	Non-structural protein NS3/Small envelope protein E	4	4
+PF02737	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain	15817	15530
+PF02790	Cytochrome C oxidase subunit II, transmembrane domain	2310	2310
+PF02921	Ubiquinol cytochrome reductase transmembrane region	690	690
+PF02932	Neurotransmitter-gated ion-channel transmembrane region	8022	7482
+PF02935	Cytochrome c oxidase subunit VIIc	449	448
+PF02936	Cytochrome c oxidase subunit IV	606	602
+PF03006	Haemolysin-III related	5401	5346
+PF03023	MviN-like protein	3817	3803
+PF03030	Inorganic H+ pyrophosphatase	2718	2659
+PF03067	Lytic polysaccharide mono-oxygenase, cellulose-degrading	1691	1690
+PF03071	GNT-I family	661	593
+PF03073	TspO/MBR family	2280	2270
+PF03083	Sugar efflux transporter for intercellular exchange	4181	2442
+PF03100	CcmE	1512	1497
+PF03116	NQR2, RnfD, RnfE family	2284	2258
+PF03124	EXS family	1693	1591
+PF03137	Organic Anion Transporter Polypeptide (OATP) family	1940	1728
+PF03176	MMPL family	13002	7060
+PF03185	Calcium-activated potassium channel, beta subunit	288	282
+PF03244	Photosystem I reaction centre subunit VI	99	98
+PF03253	Urea transporter	519	464
+PF03345	Oligosaccharyltransferase 48 kDa subunit beta	707	683
+PF03414	Glycosyltransferase family 6	279	268
+PF03435	Saccharopine dehydrogenase NADP binding domain	7631	7628
+PF03494	Beta-amyloid peptide (beta-APP)	68	67
+PF03530	Calcium-activated SK potassium channel	508	495
+PF03552	Cellulose synthase	2891	1929
+PF03595	Voltage-dependent anion channel	2672	2639
+PF03611	PTS system sugar-specific permease component	1506	1506
+PF03626	Prokaryotic Cytochrome C oxidase subunit IV	1918	1918
+PF03641	Possible lysine decarboxylase	6180	6162
+PF03647	Transmembrane proteins 14C	1076	1075
+PF03706	Lysylphosphatidylglycerol synthase TM region	4984	4948
+PF03707	Bacterial signalling protein N terminal repeat	3504	1419
+PF03721	UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain	12628	12475
+PF03741	Integral membrane protein TerC family	4959	4956
+PF03742	PetN	109	109
+PF03797	Autotransporter beta-domain	2866	2858
+PF03798	TLC domain	3886	3860
+PF03803	Scramblase	1212	1103
+PF03806	AbgT putative transporter family	1016	987
+PF03840	Preprotein translocase SecG subunit	4161	4161
+PF03911	Sec61beta family	882	882
+PF03918	Cytochrome C biogenesis protein	1405	1405
+PF03954	Hepatic lectin, N-terminal domain	85	62
+PF03967	Photosynthetic reaction centre, H-chain N-terminal region	134	134
+PF04011	LemA family	3491	3483
+PF04088	Peroxin 13, N-terminal region	484	481
+PF04103	CD20-like family	832	807
+PF04116	Fatty acid hydroxylase superfamily	7996	7979
+PF04145	Ctr copper transporter family	2256	2046
+PF04193	PQ loop repeat	7109	4312
+PF04258	Signal peptide peptidase	1778	1623
+PF04272	Phospholamban	46	46
+PF04335	VirB8 protein	1090	1088
+PF04420	CHD5-like protein	512	510
+PF04507	Csa1 family	41	40
+PF04547	Calcium-activated chloride channel	2314	2176
+PF04548	AIG1 family	2599	2229
+PF04549	CD47 transmembrane region	65	64
+PF04588	Hypoxia induced protein conserved region	1706	1704
+PF04602	Mycobacterial cell wall arabinan synthesis protein	399	395
+PF04612	Type II secretion system (T2SS), protein M	756	756
+PF04622	ERG2 and Sigma1 receptor like protein	518	510
+PF04678	Mitochondrial calcium uniporter	854	848
+PF04744	Monooxygenase subunit B protein	54	54
+PF04756	OST3 / OST6 family, transporter family	1045	1025
+PF04799	fzo-like conserved region	276	272
+PF04882	Peroxin-3	745	546
+PF04888	Secretion system effector C (SseC) like family	101	93
+PF04896	Ammonia monooxygenase/methane monooxygenase, subunit C	80	80
+PF04901	Receptor activity modifying family	171	167
+PF04930	FUN14 family	675	673
+PF04977	Septum formation initiator	4191	4191
+PF05019	Coenzyme Q (ubiquinone) biosynthesis protein Coq4	1017	990
+PF05108	Type VII secretion system ESX-1, transport TM domain B	653	615
+PF05115	Cytochrome B6-F complex subunit VI (PetL)	89	89
+PF05151	Photosystem II reaction centre M protein (PsbM)	136	136
+PF05197	TRIC channel	327	312
+PF05226	CHASE2 domain	1951	1949
+PF05230	MASE2 domain	191	191
+PF05262	Borrelia P83/100 protein	42	36
+PF05279	Aspartyl beta-hydroxylase N-terminal region	112	109
+PF05296	Taste receptor protein (TAS2R)	529	508
+PF05297	Herpesvirus latent membrane protein 1 (LMP1)	3	3
+PF05365	Ubiquinol-cytochrome C reductase, UQCRX/QCR9 like	475	472
+PF05366	Sarcolipin	8	8
+PF05371	Phage major coat protein, Gp8	13	13
+PF05392	Cytochrome C oxidase chain VIIB	65	65
+PF05409	Coronavirus  endopeptidase C30	10	10
+PF05416	Southampton virus-type processing peptidase	2	2
+PF05423	Mycobacterium membrane protein	628	628
+PF05439	Jumping translocation breakpoint protein (JTB)	178	178
+PF05454	Dystroglycan (Dystrophin-associated glycoprotein 1)	222	191
+PF05493	ATP synthase subunit H	558	558
+PF05524	PEP-utilising enzyme, N-terminal	3868	3868
+PF05529	B-cell receptor-associated protein 31-like	880	862
+PF05552	Conserved TM helix	2347	1537
+PF05579	Equine arteritis virus serine endopeptidase S32	4	4
+PF05609	Lamina-associated polypeptide 1C (LAP1C)	173	167
+PF05739	SNARE domain	4725	4700
+PF05808	Podoplanin	82	81
+PF05817	Oligosaccharyltransferase subunit Ribophorin II	677	641
+PF05879	Root hair defective 3 GTP-binding protein (RHD3)	1011	908
+PF05932	Tir chaperone protein (CesT) family	414	414
+PF05949	Bacterial protein of unknown function (DUF881)	1575	1575
+PF05969	Photosystem II complex subunit Ycf12	103	103
+PF06013	Proteins of 100 residues with WXG	2433	2433
+PF06081	Aromatic acid exporter family member 1	1221	1221
+PF06105	Aph-1 protein	377	362
+PF06109	Haemolysin E (HlyE)	8	8
+PF06140	Interferon-induced 6-16 family	625	583
+PF06146	Phosphate-starvation-inducible E	1229	1229
+PF06178	Oligogalacturonate-specific porin protein (KdgM)	174	171
+PF06212	GRIM-19 protein	560	551
+PF06298	Photosystem II protein Y (PsbY)	287	195
+PF06374	NADH-ubiquinone oxidoreductase subunit b14.5b (NDUFC2)	155	155
+PF06444	NADH dehydrogenase subunit 2 C-terminus	42	42
+PF06455	NADH dehydrogenase subunit 5 C-terminus	326	315
+PF06459	Ryanodine Receptor TM 4-6	306	302
+PF06480	FtsH Extracellular	3691	3691
+PF06550	Signal-peptide peptidase, presenilin aspartyl protease	122	118
+PF06552	Plant specific mitochondrial import receptor subunit TOM20	284	242
+PF06553	BNIP3	253	248
+PF06596	Photosystem II reaction centre X protein (PsbX)	212	212
+PF06720	Bacteriophage phi-29 early protein GP16.7	1	1
+PF06781	Cell division protein CrgA	594	583
+PF06835	Lipopolysaccharide-assembly, LptC-related	2110	1983
+PF06936	Selenoprotein S (SelS)	129	128
+PF06963	Ferroportin1 (FPN1)	796	685
+PF06965	Na+/H+ antiporter 1	1767	1765
+PF07009	NusG domain II	730	730
+PF07095	Intracellular growth attenuator protein IgaA	97	97
+PF07140	Interferon gamma receptor (IFNGR1)	29	29
+PF07225	NADH-ubiquinone oxidoreductase B15 subunit (NDUFB4)	228	228
+PF07281	Insulin-induced protein (INSIG)	385	381
+PF07415	Gammaherpesvirus latent membrane protein (LMP2) protein	3	3
+PF07465	Photosystem I protein M (PsaM)	93	93
+PF07549	SecD/SecF GG Motif	5917	5310
+PF07662	Na+ dependent nucleoside transporter C-terminus	2327	2303
+PF07664	Ferrous iron transport protein B C terminus	3242	3242
+PF07670	Nucleoside recognition	10223	6828
+PF07695	7TM diverse intracellular signalling	1925	1923
+PF07698	7TM receptor with intracellular HD hydrolase	1012	1012
+PF07766	LETM1-like protein	1558	1437
+PF07850	Renin receptor-like protein	199	198
+PF07856	Mediator of CRAC channel activity	421	417
+PF07884	Vitamin K epoxide reductase family	1580	1580
+PF07885	Ion channel	13763	10312
+PF07952	Clostridium neurotoxin, Translocation domain	7	7
+PF07963	Prokaryotic N-terminal methylation motif	18615	18614
+PF07970	Endoplasmic reticulum vesicle transporter	1819	1789
+PF07994	Myo-inositol-1-phosphate synthase	1043	1021
+PF08016	Polycystin cation channel	1761	1619
+PF08019	Domain of unknown function (DUF1705)	756	756
+PF08030	Ferric reductase NAD binding domain	4674	4594
+PF08040	MNLL subunit	71	71
+PF08041	PetM family of cytochrome b6f complex subunit 7	175	175
+PF08078	PsaX family	38	38
+PF08113	Cytochrome c oxidase subunit IIa family	36	36
+PF08294	TIM21	570	568
+PF08372	Plant phosphoribosyltransferase C-terminal	936	916
+PF08374	Protocadherin	260	256
+PF08391	Ly49-like protein, N-terminal region	72	71
+PF08405	Viral polyprotein N-terminal	1	1
+PF08454	RyR and IP3R Homology associated	784	780
+PF08521	Two-component sensor kinase N-terminal	1757	1755
+PF08690	GET complex subunit GET2	261	254
+PF08779	SARS coronavirus X4 like	1	1
+PF08802	Cytochrome B6-F complex Fe-S subunit	339	339
+PF08918	PhoQ Sensor	92	91
+PF08997	Ubiquinol-cytochrome C reductase complex, 6.4kD protein	112	112
+PF09049	Stannin transmembrane	52	52
+PF09125	Cytochrome C oxidase subunit II, transmembrane	4	4
+PF09163	Formate dehydrogenase N, transmembrane	324	324
+PF09193	Cholecystokinin A receptor, N-terminal	43	43
+PF09301	Domain of unknown function (DUF1970)	2	2
+PF09307	CLIP, MHC2 interacting	69	69
+PF09381	Outer membrane protein G (OmpG)	13	13
+PF09402	Man1-Src1p-C-terminal domain	622	617
+PF09411	Lipid A 3-O-deacylase (PagL)	870	870
+PF09427	Domain of unknown function (DUF2014)	156	155
+PF09430	Protein of unknown function (DUF2012)	616	614
+PF09480	Type III secretion system protein PrgH-EprH (PrgH)	32	32
+PF09716	Malarial early transcribed membrane protein (ETRAMP)	104	104
+PF09735	Membrane-associated apoptosis protein	545	427
+PF09781	NADH:ubiquinone oxidoreductase, NDUFB5/SGDH subunit	176	175
+PF09782	NADH:ubiquinone oxidoreductase, NDUFB6/B17 subunit	167	164
+PF09850	Type VI secretion system protein DotU	852	850
+PF10099	Anti-sigma-K factor rskA	1496	1496
+PF10140	WXG100 protein secretion system (Wss), protein YukC	130	130
+PF10183	ESSS subunit of NADH:ubiquinone oxidoreductase (complex I)	391	391
+PF10215	Oligosaccaryltransferase	264	264
+PF10251	Presenilin enhancer-2 subunit of gamma secretase	262	255
+PF10300	Protein of unknown function (DUF3808)	1123	1028
+PF10457	Cholesterol-capturing domain	308	297
+PF10515	beta-amyloid precursor protein C-terminus	272	271
+PF10541	Nuclear envelope localisation domain	303	302
+PF10559	Plug domain of Sec61p	1115	1108
+PF10643	Photosystem P840 reaction-centre cytochrome c-551	17	16
+PF10660	Iron-containing outer mitochondrial membrane protein N-terminus	185	185
+PF11099	Apoptosis regulator M11L like	7	7
+PF11127	Protein of unknown function (DUF2892)	2220	2214
+PF11356	Type II secretion system protein C	606	606
+PF11614	IG-like fold at C-terminal of FixG, putative oxidoreductase	1303	1301
+PF11628	T-cell surface glycoprotein CD3 zeta chain	76	76
+PF11803	UDP-glucuronate decarboxylase N-terminal	52	52
+PF11857	Domain of unknown function (DUF3377)	213	213
+PF11884	Domain of unknown function (DUF3404)	59	59
+PF11893	Domain of unknown function (DUF3413)	346	346
+PF11980	C-terminal domain of neuropilin glycoprotein	129	129
+PF12062	heparan sulfate-N-deacetylase	474	427
+PF12166	Piezo non-specific cation channel, R-Ras-binding domain	604	552
+PF12191	Tumour necrosis factor receptor stn_TNFRSF12A_TNFR domain	23	23
+PF12201	Bcl2-interacting killer, BH3-domain containing	27	27
+PF12349	Sterol-sensing domain of SREBP cleavage-activation	1480	1455
+PF12387	Pestivirus NS2 peptidase	1	1
+PF12693	GspL periplasmic domain	530	530
+PF12704	MacB-like periplasmic core domain	18052	16046
+PF12769	4TM region of pyridine nucleotide transhydrogenase, mitoch	2304	2301
+PF12791	Anti-sigma factor N-terminus	244	244
+PF12801	4Fe-4S binding domain	6904	3634
+PF12822	ECF transporter, substrate-specific component	2671	2661
+PF13409	Glutathione S-transferase, N-terminal domain	3302	3300
+PF13417	Glutathione S-transferase, N-terminal domain	13961	13718
+PF13491	4TM region of DNA translocase FtsK/SpoIIIE	2808	2807
+PF13493	Domain of unknown function (DUF4118)	2155	2155
+PF13505	Outer membrane protein beta-barrel domain	6034	5988
+PF13520	Amino acid permease	23429	23102
+PF13675	Type IV pili methyl-accepting chemotaxis transducer N-term	1147	995
+PF13677	Membrane MotB of proton-channel complex MotA/MotB	2667	2667
+PF13721	SecD export protein N-terminal TM region	868	868
+PF13807	G-rich domain on putative tyrosine kinase	2869	2869
+PF13847	Methyltransferase domain	89984	89705
+PF13903	PMP-22/EMP/MP20/Claudin tight junction	1126	1099
+PF14360	PAP2 superfamily C-terminal	1114	1110
+PF14575	Ephrin type-A receptor 2 transmembrane domain	1006	1004
+PF14812	Transmembrane domain of transglycosylase PBP1 at N-terminal	80	79
+PF14884	Type I membrane glycoproteins cell-cell fusogen	172	145
+PF14896	EmbC C-terminal domain	405	386
+PF14987	NADH dehydrogenase 1 alpha subcomplex subunit 3	47	47
+PF14991	Protein melan-A	55	53
+PF15009	Transmembrane protein 173	110	107
+PF15088	NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial	23	23
+PF15110	TMEM141 protein family	58	55
+PF15196	Activator of apoptosis harakiri	8	8
+PF15347	Phosphoprotein associated with glycosphingolipid-enriched	58	55
+PF15686	Lysine-rich CEACAM1 co-isolated protein family	81	74
+PF15879	NADH-ubiquinone oxidoreductase MWFE subunit	413	413
+PF15917	Piezo	286	280
+PF15957	Commissureless	34	34
+PF16028	Solute carrier family 3 member 2 N-terminus	259	258
+PF16165	Ferlin C-terminus	601	558
+PF16185	Mitochondrial ABC-transporter N-terminal five TM region	145	143
+PF16214	Adenylyl cyclase N-terminal extracellular and transmembrane region	744	736
+PF16348	Coronavirus nonstructural protein 4 C-terminus	10	10
+PF16448	LapD/MoxY periplasmic domain	393	391
+PF16492	Cadherin cytoplasmic C-terminal	1060	937
+PF16527	Two-component sensor protein CpxA, periplasmic domain	130	130
+PF16591	Helical bimodular sensor domain	254	249
+PF16732	Type IV minor pilin ComP, DNA uptake sequence receptor	847	847
+PF16817	Domain of unknown function (DUF5073)	13	13
+PF16818	Protein SLM4	30	30

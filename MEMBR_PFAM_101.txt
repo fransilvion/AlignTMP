@@ -1,0 +1,102 @@
+ACCESSION	DESCRIPTION	NUM. OF. SEQS	NUM. OF UNIQ. IDS
+PF00001	7 transmembrane receptor (rhodopsin family)	32683	31901
+PF00002	7 transmembrane receptor (Secretin family)	5255	5071
+PF00027	Cyclic nucleotide-binding domain	31163	27749
+PF00067	Cytochrome P450	72738	66820
+PF00083	Sugar (and other) transporter	44953	40715
+PF00115	Cytochrome C and Quinol oxidase polypeptide I	7470	7432
+PF00122	E1-E2 ATPase	35143	33974
+PF00137	ATP synthase subunit C	10663	8126
+PF00153	Mitochondrial carrier protein	70281	26045
+PF00201	UDP-glucoronosyl and UDP-glucosyl transferase	15665	15026
+PF00209	Sodium:neurotransmitter symporter family	10793	7190
+PF00230	Major intrinsic protein	9774	9422
+PF00285	Citrate synthase, C-terminal domain	8274	8024
+PF00288	GHMP kinases N terminal domain	13487	13474
+PF00335	Tetraspanin family	6278	6125
+PF00344	SecY translocase	5973	5945
+PF00348	Polyprenyl synthetase	12345	12213
+PF00361	Proton-conducting membrane transporter	16216	15997
+PF00375	Sodium:dicarboxylate symporter family	8360	8206
+PF00474	Sodium:solute symporter family	14505	13016
+PF00482	Type II secretion system (T2SS), protein F	15250	10328
+PF00497	Bacterial extracellular solute-binding proteins, family 3	25241	24259
+PF00501	AMP-binding enzyme	81865	71767
+PF00520	Ion transport protein	27121	18853
+PF00528	Binding-protein-dependent transport system inner membrane component	152803	148550
+PF00549	CoA-ligase	8812	8698
+PF00566	Rab-GTPase-TBC domain	12282	11802
+PF00571	CBS domain	80613	44147
+PF00593	TonB dependent receptor	39322	39206
+PF00654	Voltage gated chloride channel	7472	7273
+PF00662	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus	5452	5445
+PF00664	ABC transporter transmembrane region	60110	49602
+PF00672	HAMP domain	31960	31793
+PF00689	Cation transporting ATPase, C-terminus	11215	11095
+PF00690	Cation transporter/ATPase, N-terminus	12168	12148
+PF00732	GMC oxidoreductase	14602	14086
+PF00854	POT family	10036	8464
+PF00860	Permease family	11013	10573
+PF00873	AcrB/AcrD/AcrF family	20689	18788
+PF00881	Nitroreductase family	17476	15305
+PF00884	Sulfatase	18329	17916
+PF00892	EamA-like transporter family	67411	38772
+PF00899	ThiF family	14782	13685
+PF00909	Ammonium Transporter Family	7683	7479
+PF00916	Sulfate permease family	11326	9821
+PF00924	Mechanosensitive ion channel	13238	13210
+PF00953	Glycosyl transferase family 4	8551	8537
+PF00999	Sodium/hydrogen exchanger family	19697	19289
+PF01032	FecCD transport family	12597	12121
+PF01040	UbiA prenyltransferase family	12709	12645
+PF01061	ABC-2 type transporter	26372	22525
+PF01066	CDP-alcohol phosphatidyltransferase	13722	13708
+PF01098	Cell cycle protein	10351	9790
+PF01103	Surface antigen	6445	6434
+PF01225	Mur ligase family, catalytic domain	12618	12569
+PF01266	FAD dependent oxidoreductase	43852	43559
+PF01292	Prokaryotic cytochrome b561	5477	5474
+PF01435	Peptidase family M48	12555	12335
+PF01510	N-acetylmuramoyl-L-alanine amidase	5533	5461
+PF01529	DHHC palmitoyltransferase	7782	7755
+PF01544	CorA-like Mg2+ transporter protein	8671	8492
+PF01545	Cation efflux family	14603	14505
+PF01554	MatE	37570	19860
+PF01569	PAP2 superfamily	14355	14303
+PF01595	Domain of unknown function DUF21	9973	9967
+PF01618	MotA/TolQ/ExbB proton channel family	9530	9530
+PF01694	Rhomboid family	10105	10011
+PF01699	Sodium/calcium exchanger protein	16794	9057
+PF01758	Sodium Bile acid symporter family	5509	5487
+PF01764	Lipase (class 3)	7969	7898
+PF01794	Ferric reductase like transmembrane component	7011	7003
+PF01925	Sulfite exporter TauE/SafE	14630	13949
+PF02096	60Kd inner membrane protein	6219	6206
+PF02163	Peptidase family M50	7869	7585
+PF02321	Outer membrane efflux protein	33407	17439
+PF02355	Protein export membrane protein	8140	7024
+PF02378	Phosphotransferase system, EIIC	9203	9187
+PF02386	Cation transport protein	6322	5704
+PF02416	mttA/Hcf106 family	5274	5273
+PF02472	Biopolymer transport protein ExbD/TolR	7445	7443
+PF02517	CAAX protease self-immunity	10622	10611
+PF02535	ZIP Zinc transporter	9663	8589
+PF02683	Cytochrome C biogenesis protein transmembrane region	5301	5216
+PF02687	FtsX-like permease family	29158	24636
+PF02737	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain	15817	15530
+PF02932	Neurotransmitter-gated ion-channel transmembrane region	8022	7482
+PF03006	Haemolysin-III related	5401	5346
+PF03176	MMPL family	13002	7060
+PF03435	Saccharopine dehydrogenase NADP binding domain	7631	7628
+PF03641	Possible lysine decarboxylase	6180	6162
+PF03721	UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain	12628	12475
+PF04116	Fatty acid hydroxylase superfamily	7996	7979
+PF07549	SecD/SecF GG Motif	5917	5310
+PF07670	Nucleoside recognition	10223	6828
+PF07885	Ion channel	13763	10312
+PF07963	Prokaryotic N-terminal methylation motif	18615	18614
+PF12704	MacB-like periplasmic core domain	18052	16046
+PF13417	Glutathione S-transferase, N-terminal domain	13961	13718
+PF13505	Outer membrane protein beta-barrel domain	6034	5988
+PF13520	Amino acid permease	23429	23102
+PF13847	Methyltransferase domain	89984	89705
